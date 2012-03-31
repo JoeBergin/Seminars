@@ -2,7 +2,7 @@
   "title": "Introduction",
   "journal": [
     {
-      "id": "12ff41fe818556fd",
+      "id": "31aa095ed8f292d0",
       "type": "create",
       "item": {
         "title": "Introduction"
@@ -12,47 +12,47 @@
   "story": [
     {
       "text": "This pattern language is intended for those instructors in the industry, who are not studied educators. We wrote it especially for those, who feel that something is going wrong with their seminars - perhaps they are even frustrated and do not know what to change or what the reasons could be. This pattern language gives some hints for improving the situation, i.e. how you can run better seminars.\n  ",
-      "id": "a959a2a93a2efcd6",
+      "id": "f41d611c87e103f5",
       "type": "paragraph"
     },
     {
       "text": "After each seminar, whether successful or not, a teacher should do some kind of debrief, asking himself (or herself) the following question: \"Did the seminar run as I expected it?\" Try to find out about the reasons why it went this way. The following bullets might help if it was not as good as expected:\n  ",
-      "id": "4936ad452c2175f9",
+      "id": "db356afca42d0579",
       "type": "paragraph"
     },
     {
       "text": "On the other hand, if the seminar was good, you also should try to find out why and use the successful techniques again in the upcoming seminars. Once again, some points that might help:\n  ",
-      "id": "36ebab3f23ab295c",
+      "id": "597ebef74e3f0c3e",
       "type": "paragraph"
     },
     {
       "text": "In general, teaching is about flexibility. Every teacher should have a set of techniques to run a good seminar. A teacher should collect these effective techniques over time, perhaps creating a personal pattern language or finding new patterns to add to this pattern language.\n  ",
-      "id": "78bab5a6f32d5968",
+      "id": "da6cfebe11d9bebb",
       "type": "paragraph"
     },
     {
       "text": "This pattern language gives some proven techniques for running a good seminar. For professional educators, these things might appear trivial. For the typical industry instructor, some might not.\n  ",
-      "id": "2d261dea6de95f2f",
+      "id": "784b8409f94e17cb",
       "type": "paragraph"
     },
     {
       "text": "However, there are no \"magic techniques\". That's why this pattern language does not give recipes that say \"Do this, and everything is fine!\". It only hints at proven techniques and describes them as a pattern language. For experts in the field, this language might not provide much new information.\n  ",
-      "id": "22f49334c06e81d7",
+      "id": "96cc62ee6bbd5771",
       "type": "paragraph"
     },
     {
       "text": "To apply the pattern language, every reader must decide whether a pattern is useful in a particular situation. It is important that you create a homogenous seminar. The participants should not think \"Oh, look, now he's trying to use pattern XY!\" Be sure that you, the teacher, are honest and that you do not try to do things you do not like or that do not suit you.\n  ",
-      "id": "ab638e2ccbb9ab1f",
+      "id": "64ce544315353e67",
       "type": "paragraph"
     },
     {
       "text": "In addition to describing the patterns themselves, the pattern language also tries to explain some of the biological, anthropologic and pedagogic background. It covers all aspects of a seminar from preparation to exams.\n  ",
-      "id": "10364511518f2e47",
+      "id": "0853030e441c0bce",
       "type": "paragraph"
     },
     {
       "text": "<br>\n   Next: <b><i>[[Pattern Language]]</i></b>\n<!-- Localized -->",
-      "id": "9a95ab42edcf2b9f",
+      "id": "6117092721318ac0",
       "type": "paragraph"
     }
   ]

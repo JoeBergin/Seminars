@@ -14,7 +14,7 @@
     {
       "type": "paragraph",
       "id": "63ad2e58eecdd9e5",
-      "text": "[[Seminars]]"
+      "text": "Start here: Seminars [[Contents]]."
     },
     {
       "type": "paragraph",
@@ -487,6 +487,24 @@
         "type": "paragraph",
         "id": "fd40828f9e5e56f6",
         "text": "Or, start here: [[Title And License]]"
+      }
+    },
+    {
+      "type": "edit",
+      "id": "63ad2e58eecdd9e5",
+      "item": {
+        "type": "paragraph",
+        "id": "63ad2e58eecdd9e5",
+        "text": "Start here: Seminars[[Contents]]."
+      }
+    },
+    {
+      "type": "edit",
+      "id": "63ad2e58eecdd9e5",
+      "item": {
+        "type": "paragraph",
+        "id": "63ad2e58eecdd9e5",
+        "text": "Start here: Seminars [[Contents]]."
       }
     }
   ],

@@ -2,7 +2,7 @@
   "title": "SUMMARY",
   "journal": [
     {
-      "id": "77d6f1f32c7e85df",
+      "id": "08852eae2ace95d0",
       "type": "create",
       "item": {
         "title": "SUMMARY"
@@ -12,42 +12,37 @@
   "story": [
     {
       "text": "11. SUMMARY ** ",
-      "id": "9b07b7a35e557bfb",
+      "id": "8981c280077c9447",
       "type": "paragraph"
     },
     {
       "text": "The participants should leave after a session (or after a seminar day) with a feeling of accomplishment. They should know exactly what they have learned and what they can do with that knowledge. Sometimes, the important parts get lost in the details that have been discussed during the session or day. Always make sure that the participants can identify the important topics. These topics should be embedded in a greater context. This facilitates the transfer of the knowledge into long term memory.\n  ",
-      "id": "24c9c9c2eefea19d",
+      "id": "cae5e6014ddb5ddf",
       "type": "paragraph"
     },
     {
       "text": "&lt;center&gt;❖ ❖ ❖&lt;/center&gt;",
-      "id": "f03889abde0dac18",
+      "id": "dbf8637ec2743ee3",
       "type": "paragraph"
     },
     {
       "text": "<b>Therefore</b>, at the end of each session or day, provide a summary that repeats the important topics that have been covered. Relate these topics to things learned during previous sessions and illustrate how the rest of the seminar will build on these topics. Be sure to emphasize the essential topics and show the context. If your seminar is broken up into <i>[[DIGESTIBLE PACKETS]]</i>, summaries are simplified.\n  ",
-      "id": "6666595e31433107",
+      "id": "2ec7435ccbf0063e",
       "type": "paragraph"
     },
     {
       "text": "Don't tell the participants what you have already said three times during the day! The important thing is, that the participants are confronted with important  topics once again. This summary session can also be \"implemented\" by letting them do an additional exercise, discussing with their neighbors, writing a small summary, showing a final example that makes use of the contents of the session/day, et cetera.\n  ",
-      "id": "86858753ffa2178a",
+      "id": "3df0c87deff9f94e",
       "type": "paragraph"
     },
     {
-      "text": "<b>Checkpoint: The seminar begins</b>\n    ",
-      "id": "fde791135e1e7b64",
-      "type": "paragraph"
-    },
-    {
-      "text": "You are now ready to start the seminar. The participants arrive. You should welcome the participants, create a comfortable atmosphere and make room for personal communication. This phase is important from a social point of view.\n    ",
-      "id": "83a3846280cc26e6",
+      "text": "(<b>Checkpoint: The seminar begins.</b>\n    \n    You are now ready to start the seminar. The participants arrive. You should welcome the participants, create a comfortable atmosphere and make room for personal communication. This phase is important from a social point of view.)\n    ",
+      "id": "5285e8c6015c4deb",
       "type": "paragraph"
     },
     {
       "text": "<br><b><i>Next: [[WELCOME-THE-PARTICIPANTS]]</i></b>\n<!-- Localized -->",
-      "id": "89d6314ed6507b98",
+      "id": "2ae4e7380d5efb83",
       "type": "paragraph"
     }
   ]

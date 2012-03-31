@@ -2,7 +2,7 @@
   "title": "Pattern Language",
   "journal": [
     {
-      "id": "b98efd7dd4750ebb",
+      "id": "331225c17381a3f0",
       "type": "create",
       "item": {
         "title": "Pattern Language"
@@ -12,42 +12,42 @@
   "story": [
     {
       "text": "This pattern language is for instructors in industry and academia. They will probably not be familiar with patterns and pattern languages. That's why we include a small sections on this topic. If you are familiar with patterns and pattern languages you can skip this section.\n  ",
-      "id": "869c668f9095c4c7",
+      "id": "f3c2a63c887af0cd",
       "type": "paragraph"
     },
     {
       "text": "The first pattern language was a called \"A Pattern Language - Towns, Buildings, Constructions\" and was published in 1977 by the architect Christopher Alexander et. al. (see [CA] in <i>[[Resources]]</i>). He defines a pattern as follows:\n  ",
-      "id": "3013f813524a7d09",
+      "id": "8f51c0672656c26a",
       "type": "paragraph"
     },
     {
       "text": "<i>Each pattern describes a problem that occurs over and over again in our environment, and then describes the core of the solution to that problem, in such a way that you can use this solution a million times over, without ever doing it the same way twice.</i>\n  ",
-      "id": "f9857eeddfdba7ee",
+      "id": "6a4c783a3fcce482",
       "type": "paragraph"
     },
     {
       "text": "That means, patterns are not recipes that say \"Do X, and everything is fine!\". They provide hints along which lines a proven solution can be found to the problem, ideally with advantages, disadvantages and consequences of using the solution.\n  ",
-      "id": "6546a511c5fa260b",
+      "id": "5a811c6c59baea59",
       "type": "paragraph"
     },
     {
       "text": "Alexander introduces 253 patterns in the architecture domain. He presents patterns for everything from designing independent regions, to cities, to buildings and even to designing single rooms. By connecting these patterns with common forces and other relations he transforms this collection of patterns to a pattern language. It provides a consistent way to create a comfortable environment for people to live in.\n  ",
-      "id": "92e4996846f395ab",
+      "id": "3efa93d283a3c179",
       "type": "paragraph"
     },
     {
       "text": "At the beginning of the nineties the software community started using Alexander's technique to capture and communicate wisdom in software development. The movement started in universities and at the major programming conferences, such as OOPSLA. The first book that was publicly available was \"Design Patterns\" by Gamma, Helm, Johnson, and  Glissades called the Gang of Four (GoF). It was published in 1994, and they presented a catalog of 23 patterns on how to design software systems. In the meantime, domain specific patterns and pattern languages have been created, and the pattern movement has its own set of conferences, namely the PLOP, EuroPLOP, ChiliPLOP and KoalaPLOP (PLOP stands for Pattern Languages of Programs). Many of the patterns presented at these conferences can be found via PLOP1-4 at <i>[[Resources]]</i>\n  ",
-      "id": "cb54fb705da8dff2",
+      "id": "865abc456053e30d",
       "type": "paragraph"
     },
     {
       "text": "In the more recent past the scope of the pattern languages expanded once again, now including patterns of group working, designing software in groups, and pedagogic patterns, that deal with the problem of how to teach (especially IT topics). This pattern language is intended as another addition to the pedagogic pattern movement, which can be found on the internet via [PP] in <i>[[Resources]]</i>.\n  ",
-      "id": "464e4c86e98d0e28",
+      "id": "0445b08e14b157e5",
       "type": "paragraph"
     },
     {
       "text": "<br>\n  Next: <b><i>[[Prerequisites]]</i></b>\n<!-- Localized -->",
-      "id": "2ec6a00edfca6af0",
+      "id": "52206d8dd080ede5",
       "type": "paragraph"
     }
   ]

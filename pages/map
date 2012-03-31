@@ -2,7 +2,7 @@
   "title": "Map",
   "journal": [
     {
-      "id": "e37f2461bce5e9a5",
+      "id": "2d3ae5162a09d644",
       "type": "create",
       "item": {
         "title": "Map"
@@ -12,12 +12,12 @@
   "story": [
     {
       "text": "Insert image: map.gif here.",
-      "id": "181b828954f24682",
+      "id": "2d78867f239b0f35",
       "type": "paragraph"
     },
     {
       "text": "<br>\n  Next: <b><i>[[Quick Access]]</i></b>\n<!-- Localized -->",
-      "id": "4f04b1f87daf211e",
+      "id": "4f6696edc9514994",
       "type": "paragraph"
     }
   ]

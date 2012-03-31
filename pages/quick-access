@@ -2,7 +2,7 @@
   "title": "Quick Access",
   "journal": [
     {
-      "id": "4930d48ea2debabd",
+      "id": "bd28956de471236e",
       "type": "create",
       "item": {
         "title": "Quick Access"
@@ -12,92 +12,92 @@
   "story": [
     {
       "text": "The following lists some typical problems and the patterns in this language that address these problems. ",
-      "id": "2fc159b2db9c8eed",
+      "id": "63b04988f19120f4",
       "type": "paragraph"
     },
     {
       "text": "After the seminar, people say they did not understand the topics. <br><i>[[DIGESTIBLE PACKETS]]</i> (29), <i>[[GENERAL CONCEPTS FIRST]]</i> (31), <i>[[SEPARATE SIMILAR CONTENT]]</i> (30), <i>[[DIFFERENT APPROACHES]]</i> (20), <i>[[REVIEW AFTER BREAKS]]</i> (10)",
-      "id": "ad8ee3371452ee67",
+      "id": "455c745d97466497",
       "type": "paragraph"
     },
     {
       "text": "Participants say they do not know how to apply the newly learned topics to their own domains. <br><i>[[ADAPT TO PARTICIPANTS BACKGROUND]]</i> (2), <i>[[RELEVANT EXAMPLES]]</i> (28), <i>[[BUFFERS]]</i> (9), <i>[[LET THEM DECIDE]]</i> (3)",
-      "id": "ddc90255863d3f28",
+      "id": "f35d36d278180fe9",
       "type": "paragraph"
     },
     {
       "text": "  People are bored during the seminar. <br><i>[[ADAPT TO PARTICIPANTS BACKGROUND]]</i> (2), <i>[[RELEVANT EXAMPLES]]</i> (28), <i>[[WORK FORMS]]</i> (21), <i>[[CHANGE MEDIA]]</i> (41), <i>[[FEEDBACK]]</i> (34), <i>[[INVISIBLE TEACHE]]</i>R (40)",
-      "id": "6a5a4c6c03343231",
+      "id": "9f749e89b2f12cf6",
       "type": "paragraph"
     },
     {
       "text": "The participants say, the seminar was too stressful. <br><i>[[BREAKS]]</i> (8), <i>[[USE PARTICIPANTS MEDIA]]</i> (42), <i>[[COMFORTABLE ENVIRONMENT]]</i> (4)",
-      "id": "ff54dd2db2f641d9",
+      "id": "5da9aae07aa66c8d",
       "type": "paragraph"
     },
     {
       "text": "The participants leave the room often during the seminar. <br><i>[[BREAKS]]</i> (8)",
-      "id": "78925155d2ca74ac",
+      "id": "35080dc95d122885",
       "type": "paragraph"
     },
     {
       "text": "Participants ask questions about topics that will be taught later. <br><i>[[SEMINAR PLAN]]</i> (5), <i>[[REFERENCE THE PLAN]]</i> (6), <i>[[DISPLAY RESULTS AND PROBLEMS]]</i> (25)",
-      "id": "ec3006838f71352d",
+      "id": "e2f51c61140df18e",
       "type": "paragraph"
     },
     {
       "text": "The atmosphere is very sterile. <br><i>[[DISPLAY RESULTS AND PROBLEMS]]</i> (5), <i>[[COMFORTABLE ENVIRONMENT]]</i> (4), <i>[[TABLE ARRANGEMENT]]</i> (22), <i>[[PERSONAL COMMUNICATION]]</i> (14), <i>[[GAMES]]</i> (17), <i>[[NAMEPLATE]]</i> (16), <i>[[BODY LANGUAGE]]</i> (35), <i>[[TEACHER'S LANGUAGE]]</i> (39), <i>[[NOBODY IS PERFECT]]</i> (38), <i>[[BE THERE FIRST]]</i> (19)",
-      "id": "ba726aabd9bdae52",
+      "id": "7046132da1fca8f0",
       "type": "paragraph"
     },
     {
       "text": "My sessions are boring, I do not feel I can engage the participants. <br><i>[[CHANGE MEDIA]]</i> (41), <i>[[BODY LANGUAGE]]</i> (35), <i>[[PROBLEM ORIENTATION]]</i> (32), <i>[[RELEVANT EXAMPLES]]</i> (28), <i>[[ADAPT TO PARTICIPANTS BACKGROUND]]</i> (2), <i>[[REFERENCE THE PLAN]]</i> (6)",
-      "id": "016c1c0497ae607a",
+      "id": "145b267062a699d3",
       "type": "paragraph"
     },
     {
       "text": "The participants are afraid of the exams. <br><i>[[KIND OF EXAM]]</i> (44), <i>[[SELECTABLE EXAM TIME]]</i> (46), <i>[[HONOR QUESTIONS]]</i> (37), <i>[[NOBODY IS PERFECT]]</i> (38)",
-      "id": "a806fa95c7650839",
+      "id": "39cb57c1e9d6711c",
       "type": "paragraph"
     },
     {
       "text": "The participants do not want to do exercises. <br><i>[[EXERCISES EMPHASIZE PROCESS]]</i> (26), <i>[[DIFFERENT EXERCISE LEVELS]]</i> (24)",
-      "id": "a9a1d5c381c64ea0",
+      "id": "248b2b9bf94c1ff0",
       "type": "paragraph"
     },
     {
       "text": "I do not know whether the problems are on my side or on the participants' side. <br><i>[[TEACHER TEAMS]]</i> (36), <i>[[ANONYMOUS MAILBOX]]</i> (15), <i>[[PERSONAL COMMUNICATION]]</i> (14)",
-      "id": "4d959258eb3d3c56",
+      "id": "779c9fd7204dd011",
       "type": "paragraph"
     },
     {
       "text": "The participants do not ask questions during the sessions. <br><i>[[HONOR QUESTIONS]]</i> (37), <i>[[ADAPT TO PARTICIPANTS BACKGROUND]]</i> (2), <i>[[NOBODY IS PERFECT]]</i> (38",
-      "id": "570b4636c6baa65b",
+      "id": "efb6070dfdd1c7b8",
       "type": "paragraph"
     },
     {
       "text": "I talk and show transparencies all day long, and I feel the participants are not able to follow me. <br><i>[[WORK FORMS]]</i> (21), <i>[[CHANGE MEDIA]]</i> (41), <i>[[MANUSCRIPT]]</i> (7), <i>[[LET THE PLAN GO]]</i> (23)",
-      "id": "d21caf41f52b0cb8",
+      "id": "3b5d93596351b6bb",
       "type": "paragraph"
     },
     {
       "text": "I feel I do not get in touch with the participants. <br><i>[[PERSONAL COMMUNICATION]]</i> (14), <i>[[BREAKS]]</i> (8), <i>[[INTRODUCTION SESSION]]</i> (13), <i>[[WELCOME THE PARTICIPANTS]]</i> (12), <i>[[NAMEPLATE]]</i> (16), <i>[[GAMES]]</i> (17), <i>[[NOBODY IS PERFECT]]</i> (38)",
-      "id": "283beb8b4c4b02c0",
+      "id": "1c935beeaf4c18b6",
       "type": "paragraph"
     },
     {
       "text": "I feel the participants cannot get the big picture; they do not see context. <br><i>[[REFERENCE THE PLAN]]</i> (6), <i>[[SUMMARY]]</i> (11), <i>[[PROBLEM ORIENTATION]]</i> (32), <i>[[GENERAL CONCEPTS FIRST]]</i> (31)",
-      "id": "8719bc2fb4bdae84",
+      "id": "27cfc407a54b3fe7",
       "type": "paragraph"
     },
     {
       "text": "Participants do not know how to prepare the exam. <br><i>[[RELEVANT EXAMPLES]]</i> (28), <i>[[TRIAL EXAM]]</i> (45)",
-      "id": "27a6803818cf871f",
+      "id": "5992fa1f3d025d23",
       "type": "paragraph"
     },
     {
       "text": " Next: <i>[[Check Prerequisites]]</i> ",
-      "id": "9138292d88183602",
+      "id": "7e791895e19f2a75",
       "type": "paragraph"
     }
   ]

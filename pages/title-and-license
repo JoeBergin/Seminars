@@ -2,7 +2,7 @@
   "title": "Title And License",
   "journal": [
     {
-      "id": "f540e93523ad5da0",
+      "id": "8ef3b952a6bb1a16",
       "type": "create",
       "item": {
         "title": "Title And License"
@@ -11,28 +11,43 @@
   ],
   "story": [
     {
-      "text": "<i>[[Astrid Fricke]]</i> and\n     <i>[[Markus Voelter]]</i>",
-      "id": "62d78ede1fcab94d",
+      "text": "",
+      "id": "bd9cf91a0391e029",
+      "type": "paragraph"
+    },
+    {
+      "text": "SEMINARS",
+      "id": "9f492ad04e366e96",
+      "type": "paragraph"
+    },
+    {
+      "text": "A Pedagogical Pattern Language about teaching seminars effectively",
+      "id": "fc7e3f69cf15e800",
+      "type": "paragraph"
+    },
+    {
+      "text": "",
+      "id": "c706aaead9f3627d",
       "type": "paragraph"
     },
     {
       "text": "Version 2.5, Juli 10, 2000",
-      "id": "f5d728cff64a88b8",
+      "id": "ddd3638eea16ee2f",
       "type": "paragraph"
     },
     {
-      "text": "<i>Copyright 2000 Astrid Fricke and Markus Voelter.<br>\n        Permission is hereby granted to copy and distribute this<br>\n        paper for the purposes of the <i>[[EuroPLoP '2000]]</i> conference.</i>\t",
-      "id": "43c61098f11005bb",
+      "text": "<i>Copyright 2000 Astrid Fricke and Markus Voelter.<br>\n        Permission is hereby granted to copy and distribute this<br>\n        paper for the purposes of the <b>EuroPLoP '2000</b> conference.</i>\t",
+      "id": "1325416cada93fc2",
       "type": "paragraph"
     },
     {
       "text": "<i>\n        Licensed under a CC-BY-SA license. \n        </i>",
-      "id": "8505b7fff4e4be2d",
+      "id": "ebcbec379789af88",
       "type": "paragraph"
     },
     {
       "text": "<br>\n  Next: <b><i>[[Introduction]]</i></b>\n<!-- Localized -->",
-      "id": "45bdc07354b6032d",
+      "id": "b2394916c9a6932c",
       "type": "paragraph"
     }
   ]

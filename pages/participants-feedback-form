@@ -2,7 +2,7 @@
   "title": "PARTICIPANTS-FEEDBACK-FORM",
   "journal": [
     {
-      "id": "4798af1f4060187c",
+      "id": "a9e31c2af899f686",
       "type": "create",
       "item": {
         "title": "PARTICIPANTS-FEEDBACK-FORM"
@@ -12,42 +12,37 @@
   "story": [
     {
       "text": "43. PARTICIPANT'S FEEDBACK FORM ",
-      "id": "fcf640cf87ad6fba",
+      "id": "4bdfc5db089f4ae0",
       "type": "paragraph"
     },
     {
       "text": "You try to make your seminar as good as possible, but it is hard for you to determine whether it is good or not. The most realistic judgement ultimately comes from the participants.\n  ",
-      "id": "71bf9cfc095e17fa",
+      "id": "7268d1d6d9a5a48b",
       "type": "paragraph"
     },
     {
       "text": "&lt;center&gt;❖ ❖ ❖&lt;/center&gt;",
-      "id": "a866c18eb6d32add",
+      "id": "f87ddde52d7e6036",
       "type": "paragraph"
     },
     {
       "text": "<b>Therefore</b>, give the participants a chance to \"rate\" the seminar. Ensure that the participants can stay anonymous, if they want to. To get a comparable result, be sure to guide the participants by asking certain questions or write down some criteria they can rate (e.g. on a scale from 1 to 10).\n  ",
-      "id": "9cf5574a28816ecc",
+      "id": "747617c30f23f353",
       "type": "paragraph"
     },
     {
       "text": "A very common technique is the feedback form that each participant can fill in. It keeps the participants anonymous if they want. A good way to motivate the participants to fill in the form is the following: Do not let them do it at the end of the seminar, but let them fill in the form when you are only half way through. This has the consequence that the participants have a chance to benefit from their criticism.\n  ",
-      "id": "807bbe3a3cf41bdf",
+      "id": "6251c4522a98999e",
       "type": "paragraph"
     },
     {
-      "text": "<b>\n    Checkpoint: Teaching is over\n   </b> ",
-      "id": "da7b28ba5ab2d7e9",
-      "type": "paragraph"
-    },
-    {
-      "text": " Now that the teaching is over and the participants have successfully learned the required topics, it is time for the exam.\n",
-      "id": "39c356dfb11f993d",
+      "text": "(<b>Checkpoint: Teaching is over.</b>\n   Now that the teaching is over and the participants have successfully learned the required topics, it is time for the exam.)\n",
+      "id": "56a3abbfcd20e25a",
       "type": "paragraph"
     },
     {
       "text": "<br><b><i>Next: [[KIND-OF-EXAM]]</i></b>\n<!-- Localized -->",
-      "id": "8058bc0607077e47",
+      "id": "2f1dde84e34ef288",
       "type": "paragraph"
     }
   ]

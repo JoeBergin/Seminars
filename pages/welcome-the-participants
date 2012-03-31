@@ -2,7 +2,7 @@
   "title": "WELCOME-THE-PARTICIPANTS",
   "journal": [
     {
-      "id": "d5176c96f20f1f9a",
+      "id": "7be310176bcd61a0",
       "type": "create",
       "item": {
         "title": "WELCOME-THE-PARTICIPANTS"
@@ -12,42 +12,37 @@
   "story": [
     {
       "text": "12. WELCOME THE PARTICIPANTS ** ",
-      "id": "161892f0d29d5f34",
+      "id": "45e0e378cf8bc757",
       "type": "paragraph"
     },
     {
-      "text": "<b>Checkpoint: The seminar begins</b>\n    ",
-      "id": "85c4fe378879b027",
-      "type": "paragraph"
-    },
-    {
-      "text": "You are now ready to start the seminar. The participants arrive. You should welcome the participants, create a comfortable atmosphere and make room for personal communication. This phase is important from a social point of view.\n    ",
-      "id": "fd022146254d7c52",
+      "text": "(<b>Checkpoint: The seminar begins.</b>\n   \n    You are now ready to start the seminar. The participants arrive. You should welcome the participants, create a comfortable atmosphere and make room for personal communication. This phase is important from a social point of view.)\n    ",
+      "id": "a91385ba125b0102",
       "type": "paragraph"
     },
     {
       "text": "The beginning of a seminar is one of the most important phases. It is at that time when social contacts are created or blocked, it is a perfect time for the first <i>[[PERSONAL COMMUNICATIONS]]</i>. When the participants arrive they are usually unsure about where to go, who to talk to, et cetera. You as the teacher should guide them here.\n  ",
-      "id": "bed4e62e866bbeb1",
+      "id": "c1064b50ac0c8618",
       "type": "paragraph"
     },
     {
       "text": "&lt;center&gt;❖ ❖ ❖&lt;/center&gt;",
-      "id": "fd02926b07550668",
+      "id": "c3c9880c7dae3f72",
       "type": "paragraph"
     },
     {
       "text": "<b>Therefore</b>, welcome the participants. You should be already there when the participants arrive. You should talk to them informally. Talk to them, show them the room, introduce them to the other participants. If a suitable atmosphere is created, the participants will get in touch with each other and a group starts to form. This makes room for <i>[[PERSONAL COMMUNICATION]]</i> among the participants and you. However, it is important that you are not obtrusive, you have to keep each person's minimum distance.\n  ",
-      "id": "0f1a7660cf0e2dfe",
+      "id": "f983b2bff93b5fc2",
       "type": "paragraph"
     },
     {
       "text": "You could show them the room, perhaps introduce them to the other participants, et cetera. You could place tables in front of the classroom, offer coffee (and other drinks, because not everybody likes coffee!). Ask the participants about their professional background and their expectations towards the seminar. The participants feel that their opinion is important. However, be sure not to drift away into private contents. You can also ask them explicitly, what made them come to this seminar.\n  ",
-      "id": "577d64fd12315d9f",
+      "id": "fe5e3ac6343e1c60",
       "type": "paragraph"
     },
     {
       "text": "<br><b><i>Next: [[INTRODUCTION-SESSION]]</i></b>\n<!-- Localized -->",
-      "id": "ea9606d8a06d77ab",
+      "id": "22bfe4e4bbaee105",
       "type": "paragraph"
     }
   ]

@@ -2,7 +2,7 @@
   "title": "Acknowledgements",
   "journal": [
     {
-      "id": "979a64c73040b364",
+      "id": "1de07abd43a0ca5d",
       "type": "create",
       "item": {
         "title": "Acknowledgements"
@@ -12,22 +12,22 @@
   "story": [
     {
       "text": "Many people gave useful comments and criticism to this paper. First and foremost, we would like to thank our EuroPLOP 2000 shepherd Norm Kerth. He provided us with many really insightful comments and constructive criticism. His experience in teaching and pattern writing has helped to improve the paper tremendously.\n  ",
-      "id": "eefeacebbcf27bc4",
+      "id": "19bc10d66152e86d",
       "type": "paragraph"
     },
     {
       "text": "Second, we'd like to thank the participants of EuroPLoP 2000's Pedagogy workshop, (especially Joseph Bergin, Jutta Eckstein, Jane Chandler, and Linda Rising) for their  encouraging comments and suggestions.\n  ",
-      "id": "5718230462166c27",
+      "id": "5c6b8e6333266fe2",
       "type": "paragraph"
     },
     {
       "text": "We'd also like to thank Birgit Wiedenmann, Martin Siebert, Bernd Unglaub and Hartmut Ott. Birgit gave us many useful comments and contributed the <i>[[MANUSCRIPT]]</i>, <i>[[TEACHER'S LANGUAGE]]</i>, <i>[[FEEDBACK]]</i>, and <i>[[BODY LANGUAGE]]</i> patterns.  Martin inspired many of the illustrations, told us about the Multiple-L table arrangement and laid the foundations for the <i>[[CHECK PREREQUISITES]]</i> pattern. Bernd gave many useful hints that have been incorporated in several patterns. Hartmut inspired the Quick Access Table.\n  ",
-      "id": "30056b5718a45dc2",
+      "id": "b97554666b83bc4c",
       "type": "paragraph"
     },
     {
       "text": "<br><b><i>[[Resources]]</i></b>\n<!-- Localized -->",
-      "id": "05f7dcd40157a251",
+      "id": "f7b043bd651e9553",
       "type": "paragraph"
     }
   ]

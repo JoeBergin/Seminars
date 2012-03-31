@@ -2,7 +2,7 @@
   "title": "PROBLEM-ORIENTATION",
   "journal": [
     {
-      "id": "8bad8ddb96d68a6a",
+      "id": "c9b4d366a216d701",
       "type": "create",
       "item": {
         "title": "PROBLEM-ORIENTATION"
@@ -12,32 +12,32 @@
   "story": [
     {
       "text": "32. PROBLEM ORIENTATION *",
-      "id": "5f3161a825a392bc",
+      "id": "656def47adf5da64",
       "type": "paragraph"
     },
     {
       "text": "It is very difficult for the participants to get a start on new topics. The introduction to a new topic must be as easy as possible for the participants. The participants should be motivated to learn the new topic. To be motivated, they need to know what they can do with the new knowledge.\n  ",
-      "id": "6fc608faeb818b28",
+      "id": "ae8649ee53553697",
       "type": "paragraph"
     },
     {
       "text": "&lt;center&gt;❖ ❖ ❖&lt;/center&gt;",
-      "id": "e86d928f4debc65e",
+      "id": "fadf5c59600ef186",
       "type": "paragraph"
     },
     {
       "text": "<b>Therefore</b>, start a new topic by introducing the context, ideally using previously learned topics (this helps to <i>[[REPEAT TOPICS]]</i>). Show the problem the new topic solves. It is important for the participants to know where you will lead them, they must know the goal. Just <i>[[REFERENCING THE PLAN]]</i> is not enough, you should create real tension. Teach details of a topic only in a second step, after the fundamentals are well understood. Always start with the overview, use a top-down approach and teach <i>[[GENERAL CONCEPTS FIRST]]</i>.\n  ",
-      "id": "97d99b92c7a6eea5",
+      "id": "3fbc869522de2f15",
       "type": "paragraph"
     },
     {
       "text": "You should discuss problems from the participants background, problems which they have already understood well. The seminar should give them the tools needed to solve this problem. Reference this problem repeatedly in the course of the seminar.\n  ",
-      "id": "f635fe8c617dce4f",
+      "id": "85a2524781324ef1",
       "type": "paragraph"
     },
     {
       "text": "<br><b><i>Next: [[REPEAT-TOPICS]]</i></b>\n<!-- Localized -->",
-      "id": "9d4c959d7685e3c2",
+      "id": "40e6f4048755cff7",
       "type": "paragraph"
     }
   ]
