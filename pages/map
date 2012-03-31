@@ -1,0 +1,24 @@
+{
+  "title": "Map",
+  "journal": [
+    {
+      "id": "e37f2461bce5e9a5",
+      "type": "create",
+      "item": {
+        "title": "Map"
+      }
+    }
+  ],
+  "story": [
+    {
+      "text": "Insert image: map.gif here.",
+      "id": "181b828954f24682",
+      "type": "paragraph"
+    },
+    {
+      "text": "<br>\n  Next: <b><i>[[Quick Access]]</i></b>\n<!-- Localized -->",
+      "id": "4f04b1f87daf211e",
+      "type": "paragraph"
+    }
+  ]
+}

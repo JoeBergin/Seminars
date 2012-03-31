@@ -1,0 +1,10 @@
+[CA] Christopher Alexander et. al., A Pattern Language: Towns - Buildings - Construction. Oxford University Press 1977
+[CR] Colin Rose, Accelerated Learning, Dell Books, 1989
+[FV] Frederic Vester, Denken, Lernen, Vergessen, 23rd edition, dtv, 1996
+[MH] Hilbert Meyer, Unterrichtsmethoden (Bd.1 Theorie, Bd.2 Praxis), Cornelsen, 1987
+[PLOP1] Coplien, Schmidt (editors), Pattern Languages of Program Design, Addison-Wesley 1995
+[PLOP2] Vlissides, Coplien, Kerth (editors), Pattern Languages of Program Design 2, Addison-Wesley 1996
+[PLOP3] Martin, Riehle, Buschmann (editors), Pattern Languages of Program Design 3, Addison-Wesley 1998
+[PLOP4] Harrisson, Foote, Rohnert (editors), Pattern Languages of Program Design 4, Addison-Wesley 2000
+[PP] Pedagogic Patterns Project home page at http://www-lifia.info.unlp.edu.ar/ppp
+[WP] Wilhelm H. Peterßen, Handbuch Unterrichtsplanung, 6th Edition, Ehrenwith, 1982

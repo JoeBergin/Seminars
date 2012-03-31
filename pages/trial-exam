@@ -1,0 +1,44 @@
+{
+  "title": "TRIAL-EXAM",
+  "journal": [
+    {
+      "id": "78d818bb3a532715",
+      "type": "create",
+      "item": {
+        "title": "TRIAL-EXAM"
+      }
+    }
+  ],
+  "story": [
+    {
+      "text": "45. TRIAL EXAM *",
+      "id": "4fdba1437fc2a011",
+      "type": "paragraph"
+    },
+    {
+      "text": "The participants are afraid of the exam and they repeatedly ask you what the scope of the exam will be. They do not know how to prepare the exam. This creates fear.\n  ",
+      "id": "e71598e830a37c44",
+      "type": "paragraph"
+    },
+    {
+      "text": "&lt;center&gt;❖ ❖ ❖&lt;/center&gt;",
+      "id": "37b3a52c11cc0cfa",
+      "type": "paragraph"
+    },
+    {
+      "text": "<b>Therefore</b>, give the participants a chance to prepare the exam by writing a trial exam during the seminar. Be sure to ask the same kind of questions with the same difficulty level in the real exam, otherwise you will get incredible. The trial exam should be significantly shorter than the real exam, but it should contain all types of questions that will be asked in the real exam.\n  ",
+      "id": "d266eb8205bd5e6f",
+      "type": "paragraph"
+    },
+    {
+      "text": "This trial exam does not necessarily mean more work for you, because you can compile it from exercises and the participants can correct the trial exam on their own with the help of a previously prepared solution. As an additional help, you can give hints on the topics that should be repeated if a specific trial exam question could not be answered successfully.\n  ",
+      "id": "1f98693dc649ddc9",
+      "type": "paragraph"
+    },
+    {
+      "text": "<br><b><i>Next: [[SELECTABLE-EXAM-TIME]]</i></b>\n<!-- Localized -->",
+      "id": "6f7cc35a0ab13263",
+      "type": "paragraph"
+    }
+  ]
+}

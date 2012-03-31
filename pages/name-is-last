@@ -1,0 +1,44 @@
+{
+  "title": "NAME-IS-LAST",
+  "journal": [
+    {
+      "id": "4262523a4f9cd1c7",
+      "type": "create",
+      "item": {
+        "title": "NAME-IS-LAST"
+      }
+    }
+  ],
+  "story": [
+    {
+      "text": "27. NAME IS LAST *",
+      "id": "b3d7b17a251fe000",
+      "type": "paragraph"
+    },
+    {
+      "text": "Often, a new topic is introduced by bombarding the participants with technical terms. But the participants cannot yet connect these terms to available knowledge, which leads to confusion. The participants are not able to understand the new topics. There is a danger that the participants create false associations, which have to be removed later when they really understand the topic.\n  ",
+      "id": "8efb5094c132d0a8",
+      "type": "paragraph"
+    },
+    {
+      "text": "&lt;center&gt;❖ ❖ ❖&lt;/center&gt;",
+      "id": "945990c36083a86d",
+      "type": "paragraph"
+    },
+    {
+      "text": "<b>Therefore</b>, make sure that the participants understand a topic or concept before you give it a name! If you mention a name before you explain it, participants might know some (possibly) wrong things about the name, creating wrong associations.\n  ",
+      "id": "b704635fb8cebf31",
+      "type": "paragraph"
+    },
+    {
+      "text": "A good example from the programming languages domain is teaching the use of the static keyword in C++. If the participants already know C, they might immediately associate the word static with their present knowledge. It is hard to work out the subtle differences. If you first explain what you want to achieve, and then give it a name, the chances are better that they understand the differences.\n  ",
+      "id": "48ff097bd72d4692",
+      "type": "paragraph"
+    },
+    {
+      "text": "<br><b><i>Next: [[RELEVANT-EXAMPLES]]</i></b>\n<!-- Localized -->",
+      "id": "0732fd2494209436",
+      "type": "paragraph"
+    }
+  ]
+}

@@ -1,0 +1,79 @@
+{
+  "title": "KIND-OF-EXAM",
+  "journal": [
+    {
+      "id": "0ebb42893bbe5e51",
+      "type": "create",
+      "item": {
+        "title": "KIND-OF-EXAM"
+      }
+    }
+  ],
+  "story": [
+    {
+      "text": "44. KIND OF EXAM *",
+      "id": "84c8caac0b5e1b1e",
+      "type": "paragraph"
+    },
+    {
+      "text": "<b>Checkpoint: Teaching is over</b>",
+      "id": "6c1f15978427b004",
+      "type": "paragraph"
+    },
+    {
+      "text": " Now that the teaching is over and the participants have successfully learned the required topics, it is time for the exam.\n",
+      "id": "7c3312a09ef745d9",
+      "type": "paragraph"
+    },
+    {
+      "text": "Often, the exam is seen as a problem by the participants, some are even afraid of it. You should try to take away this fear. In addition, in many seminars, the kind of exam is completely unsuitable.\n  ",
+      "id": "a5832b725ecdace4",
+      "type": "paragraph"
+    },
+    {
+      "text": "&lt;center&gt;❖ ❖ ❖&lt;/center&gt;",
+      "id": "06f59584d3a0af85",
+      "type": "paragraph"
+    },
+    {
+      "text": "<b>Therefore</b>, think about what kind of exam to use:\n  ",
+      "id": "1fbde3b19e4390ad",
+      "type": "paragraph"
+    },
+    {
+      "text": "Exams can be written or they can be verbal.\n    ",
+      "id": "0d46836ee0ef8aaa",
+      "type": "paragraph"
+    },
+    {
+      "text": "You can differentiate among the participants by testing the skill or by testing how fast they accomplish the exam.\n    ",
+      "id": "8da1d892b7d4cd01",
+      "type": "paragraph"
+    },
+    {
+      "text": "You can also use a project that has to be done by each participant to find out about a participant's qualification\n  ",
+      "id": "5d97001863e0fd68",
+      "type": "paragraph"
+    },
+    {
+      "text": "If your seminar aims at improving the skill of the participants, then a project serves well as an exam. A oral exam is also good, because you can get a feeling for how the participant solves problems. The disadvantage is that it is more work for you to find an appropriate mark. And the results are not as easy to prove and compare.\n  ",
+      "id": "5cc17a103dd69148",
+      "type": "paragraph"
+    },
+    {
+      "text": "You should also ask yourself if it is necessary to give marks. Marks always create a way for the participants to compare to each other, which can be frustrating for those who are among the best.\n  ",
+      "id": "ca1db8058d1d258d",
+      "type": "paragraph"
+    },
+    {
+      "text": "If your seminar aims at acquiring a title such as \"Certified Pattern Engineer\" then a written exam, perhaps using multiple choice questions from a previously published catalog is preferable. For such seminars, it is often unnecessary to give a mark, because it is only interesting if the participant has passed or failed.\n  ",
+      "id": "fc389413daab5f55",
+      "type": "paragraph"
+    },
+    {
+      "text": "<br><b><i>Next: [[TRIAL-EXAM]]</i></b>\n<!-- Localized -->",
+      "id": "59bba9dc9241477e",
+      "type": "paragraph"
+    }
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "title": "Resources",
+  "journal": [
+    {
+      "id": "553b4ac08eb25b4d",
+      "type": "create",
+      "item": {
+        "title": "Resources"
+      }
+    }
+  ],
+  "story": [
+    {
+      "text": " ",
+      "id": "905579748ebb9913",
+      "type": "paragraph"
+    },
+    {
+      "text": "[CA] Christopher Alexander et. al., A Pattern Language: Towns - Buildings - Construction. Oxford University Press 1977 ",
+      "id": "40dc862b00d9f7d5",
+      "type": "paragraph"
+    },
+    {
+      "text": "[CR] Colin Rose, Accelerated Learning, Dell Books, 1989\n\t",
+      "id": "9265a9afc6b64ce1",
+      "type": "paragraph"
+    },
+    {
+      "text": "[FV] Frederic Vester, Denken, Lernen, Vergessen, 23rd edition, dtv, 1996\n",
+      "id": "3aa109bfca5de68f",
+      "type": "paragraph"
+    },
+    {
+      "text": "[MH] Hilbert Meyer, Unterrichtsmethoden (Bd.1 Theorie, Bd.2 Praxis), Cornelsen, 1987\n",
+      "id": "29ae1b56ade9b55a",
+      "type": "paragraph"
+    },
+    {
+      "text": "[PLOP1] Coplien, Schmidt (editors), Pattern Languages of Program Design, Addison-Wesley 1995\n",
+      "id": "91519f0af3cf263d",
+      "type": "paragraph"
+    },
+    {
+      "text": "[PLOP2] Vlissides, Coplien, Kerth (editors), Pattern Languages of Program Design 2, Addison-Wesley 1996\n",
+      "id": "64e7b29b05d81c46",
+      "type": "paragraph"
+    },
+    {
+      "text": "[PLOP3] Martin, Riehle, Buschmann (editors), Pattern Languages of Program Design 3, Addison-Wesley 1998\n",
+      "id": "3816deedce910181",
+      "type": "paragraph"
+    },
+    {
+      "text": "[PLOP4] Harrisson, Foote, Rohnert (editors), Pattern Languages of Program Design 4, Addison-Wesley 2000\n",
+      "id": "1cdb6f1dd539002c",
+      "type": "paragraph"
+    },
+    {
+      "text": "[PP] Pedagogical Patterns Project home page at http://pedagogicalpatterns.org\n",
+      "id": "a3ab14018b3d9975",
+      "type": "paragraph"
+    },
+    {
+      "text": "[WP] Wilhelm H. Peterßen, Handbuch Unterrichtsplanung, 6th Edition, Ehrenwith, 1982 ",
+      "id": "582059140b8839a3",
+      "type": "paragraph"
+    }
+  ]
+}

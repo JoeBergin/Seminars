@@ -1,0 +1,84 @@
+{
+  "title": "CHANGE-MEDIA",
+  "journal": [
+    {
+      "id": "93cec8387d4ed3cf",
+      "type": "create",
+      "item": {
+        "title": "CHANGE-MEDIA"
+      }
+    }
+  ],
+  "story": [
+    {
+      "text": "41. CHANGE MEDIA *",
+      "id": "cc93083dc73e989f",
+      "type": "paragraph"
+    },
+    {
+      "text": "It is boring for the participants to stare at the blackboard all the time and copy the things they read there. Different presentation forms (graphics, text, explanation) can be most suitable for certain participants (<i>[[DIFFERENT APPROACHES]]</i>).\n  ",
+      "id": "2c37b1b27c47ac05",
+      "type": "paragraph"
+    },
+    {
+      "text": "&lt;center&gt;❖ ❖ ❖&lt;/center&gt;",
+      "id": "6aef2e1e8db064e2",
+      "type": "paragraph"
+    },
+    {
+      "text": "<b>Therefore</b>, you should change media during the sessions from time to time, ideally the medium used always suits the content. Several different types of media are available: blackboard, overhead projector, slides or films, flipchart, beamer, and script. However, be sure not to create a \"media battle\" using every possible medium in every session. By changing the media in the course of a seminar, the sessions are more diversified.\n  ",
+      "id": "644fd9776367ab35",
+      "type": "paragraph"
+    },
+    {
+      "text": "Make sure that the selected media fit to the selected <i>[[WORK FORM]]</i>.\n  ",
+      "id": "cf64b906e935fb08",
+      "type": "paragraph"
+    },
+    {
+      "text": "The blackboard is well suited to explain processes or build up something because the creation process can be observed by the participants. The overhead projector can be used to show complicated diagrams or drawings, that have more informing character. Slides or films can be used to show real world applications of a topic, and they serve as a kind relaxation phase during a session. The flipchart is well suited to explain questions or to make notes. A beamer can be used together with the suitable animation software to illustrate a process. Of course it can be used as a replacement for transparencies by using a presentation software such as MS PowerPoint.\n  ",
+      "id": "e0fe1b0530602ec6",
+      "type": "paragraph"
+    },
+    {
+      "text": "If you create and use transparencies, be sure to keep the following aspects in mind:\n  ",
+      "id": "525c3cead76e20f2",
+      "type": "paragraph"
+    },
+    {
+      "text": "Give the participants time to look at the transparencies\n    ",
+      "id": "32ae933a6965581f",
+      "type": "paragraph"
+    },
+    {
+      "text": "Use a font size that can also be read from the back rows (try it!)\n    ",
+      "id": "2bedc26bcac1e7ce",
+      "type": "paragraph"
+    },
+    {
+      "text": "Use colors and different fonts to facilitate reading\n    ",
+      "id": "eb70a5cccaac4a16",
+      "type": "paragraph"
+    },
+    {
+      "text": "Do not overload them with too much detail (especially a problem when copying things from books)\n    ",
+      "id": "adb7be1d914d177a",
+      "type": "paragraph"
+    },
+    {
+      "text": "If more than one topics is displayed on a transparency, hide the topics that are not currently explained.\n    ",
+      "id": "4258ef66ed2291e4",
+      "type": "paragraph"
+    },
+    {
+      "text": "If you want to explain a process, be sure to use a medium that reflects this process. Suitable media are animations, the blackboard or stacked transparencies. Do not present the full solution (e.g. on a transparency or in the script) and then verbally explain the process how to come to this illustration.\n  ",
+      "id": "a4c67c9f58f89e02",
+      "type": "paragraph"
+    },
+    {
+      "text": "<br><b><i>Next: [[USE-PARTICIPANTS-MEDIA]]</i></b>\n<!-- Localized -->",
+      "id": "ab4c1243cbae1e60",
+      "type": "paragraph"
+    }
+  ]
+}

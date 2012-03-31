@@ -1,0 +1,44 @@
+{
+  "title": "USE-PARTICIPANTS-MEDIA",
+  "journal": [
+    {
+      "id": "b3f54540f2246ffe",
+      "type": "create",
+      "item": {
+        "title": "USE-PARTICIPANTS-MEDIA"
+      }
+    }
+  ],
+  "story": [
+    {
+      "text": "42. USE PARTICIPANTS' MEDIA *",
+      "id": "d70bcb1a90f162eb",
+      "type": "paragraph"
+    },
+    {
+      "text": "The participants usually have to do two things in parallel: Understand new topics and copy text from a blackboard/transparency/slide. This is a very challenging task. You as the teacher should make this as easy as possible for the participants.\n  ",
+      "id": "31c742db1ddb7ba5",
+      "type": "paragraph"
+    },
+    {
+      "text": "&lt;center&gt;❖ ❖ ❖&lt;/center&gt;",
+      "id": "b615f99c657bc0b0",
+      "type": "paragraph"
+    },
+    {
+      "text": "<b>Therefore</b>, create \"equal chances\" for everybody. You should use the same kind of media as the participants do, so the participants can easily copy things as fast as you write them. Keep in mind, that the participants should be given the chance to understand the topics they copy. Otherwise, they do not know whether they did understand it or not, and they cannot ask important questions.\n  ",
+      "id": "327dbc0ecdf712b3",
+      "type": "paragraph"
+    },
+    {
+      "text": "If you show complex drawings, give the participants hardcopies, do not ask them to copy the drawings manually while you explain them. If the participants have to copy things manually (which is good from a learning efficiency perspective), write them on the blackboard or on transparencies during the session. It is very frustrating for participants to enter the room and see a completely filled blackboard and hear the teacher saying \"You can already start copying that...\"\n  ",
+      "id": "a4d4d0610fe696c8",
+      "type": "paragraph"
+    },
+    {
+      "text": "<br><b><i>Next: [[PARTICIPANTS-FEEDBACK-FORM]]</i></b>\n<!-- Localized -->",
+      "id": "4f197e3974e5a57b",
+      "type": "paragraph"
+    }
+  ]
+}

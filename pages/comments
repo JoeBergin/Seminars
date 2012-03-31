@@ -1,0 +1,19 @@
+{
+  "title": "Comments",
+  "journal": [
+    {
+      "id": "48569ea0b76dcfcd",
+      "type": "create",
+      "item": {
+        "title": "Comments"
+      }
+    }
+  ],
+  "story": [
+    {
+      "text": "<font face=\"sans-serif\" size=\"-1\">(c) 2000 Markus Voelter and Astrid Fricke. We appreciate any comments or suggestions. <br> Send email to voelter at acm dot org</font>\n  ",
+      "id": "12345508a7a9e810",
+      "type": "paragraph"
+    }
+  ]
+}

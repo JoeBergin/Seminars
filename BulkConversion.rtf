@@ -1,0 +1,62 @@
+{\rtf1\ansi\ansicpg1252\cocoartf1138\cocoasubrtf320
+{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
+{\colortbl;\red255\green255\blue255;}
+\margl1440\margr1440\vieww12000\viewh16800\viewkind0
+\pard\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\pardirnatural
+
+\f0\fs24 \cf0 To bulk translate a collection of xml or html files into JSON suitable for Smallest Federated Wiki. The process is to grab a collection of pages, one at a time, pull their content into ruby using nokogiri (a web parser/tree creator), modify it in ruby, write it out with JSON, and produce a summary page. This is all automated with the convert.rb script, though you will need to modify it depending on the nature of your html/xml.\
+\
+1. Clone this directory structure with your html files in ./scripts/originals. This directory also contains convert.rb, which you will edit to do the translation. \
+\
+If you have a set of html files already, so much the better. If they are on the web you can use something like SiteSucker to bring them all to your local machine - with permission, of course. \
+\
+If you have a monolithic document, convert it to html if necessary.\
+\
+Hint. The files should be small. since fed.wiki.org pages are small. One way to achieve this, if you have a long single document, is to first make it html, then import it into Sigil (an ePub creator) which has a nice say to break a document into "chapters" that are XHTML files. these can then be exported for use with a system like this. \
+\
+The pages directory can be empty. \
+\
+2. Edit the ReadMe.md file however you please to help the next person. \
+\
+3. Since I was creating JSON for the Seminars paper, I first changed line 51 to say Seminars instead of Patterns Of Practice. The original was produced by Ward Cunningham to do my book pages. I produced the seminars version to do Voelter and Fricke's work. \
+\
+4. The original was doing xhtml files and the new one is html, so three changes. The incoming file extension on line 54 xhtml -> html. Similarly on 56. Then the Nokogiri::XML -> Nokogiri::HTML. \
+\
+It will now produce "something", but perhaps not what you want. You will now need to look at the details of how you want the content modified in the new pages. For the rest of this, you need to delve into the internals of your document tree and the options offered by nokogiri to process it. \
+\
+You are now at the stage that you will want to look at what you have in the fed wiki. Use Ward's instructions to put a copy on your own computer if it isn't already there. This is so that you can test as you go along. There are a few install steps. Find the default-data/pages directory and copy some or all of your output there, from the pages directory of wherever you are working. Now launch the server with ./bin/server.js from the server/express directory of the fed wiki on your site. Launch your browser and open localhost:3000 to see what you have. \
+\
+But note that when you make changes to the converter and want to see the new results, you must not only copy the new pages to the default-data/pages again, but must also clear out the data/pages directory. Otherwise you won't see the pages from default, but the last changes you made in the browser.  To make life easier, the first time you run the system, edit the welcome page to the version you want to show for this wiki. Then copy its file from the data/pages directory to the default-data/pages directory. Then, when you empty the data/pages in future, you will still have the welcome page without re-creating it. \
+\
+You can, of course, automate the needed directory changes and starting of the server with a simple script. The following works for me. It cleans out the entire pages directory and replaces it with the newest version (as default). \
+#!//bin/sh\
+# run from server/express\
+\
+if test -e ../../data/pages/welcome-visitors\
+then\
+	rm ../../data/pages/*\
+fi\
+cp ~/seminars/pages/* ../../default-data/pages\
+./bin/server.js\
+#end\
+\
+5. Next we tackle the problem of replacing an image tag with some text. We both used images for separators, but the intent was different. Here the solution is different. Markus didn't enclose the image tags within paragraphs and we want to collect paragraphs. So we modify the DOM tree to replace img tags with the paragraph we want to see in the eventual output, just three asterisks. Stmt 43\'85 in the new version. Now the clean method, which replaced the image tag's text in the original has no purpose here. \
+\
+Note that this also has the unfortunate side effect of replacing all images with three asterisks. There are a few images that should be preserved, actually, but few enough that we leave them for manual post processing. \
+\
+6. The seminars files all have newlines at the beginning of each paragraph. These are removed in the new clean method. This will make the eventual presentation a bit tighter. We also take out any spaces that follow the newline. \
+\
+7. The next problem is to tackle filenames and page titles. In Patterns Of Practice this was a bit easier, since the file names were already the pattern names, so they just needed to be mangled a bit. Here it is a bit tricker. The original filenames of the patterns are just the numbers of the patterns. 1 thru 48 and internal links refer to these names throughout the patterns. We didn't want to change the originals, but to handle it all in translation. The fed wiki names (and the page titles) are actually in the first paragraph of each pattern. So, in convert, we grab the content of the first paragraph and mangle it into a new Title and use that in place of the original filename. When the call to page is made, a new file will be created with this name, as well as adding the name as a title. The newTitle is also put into the summary, instead of the original. \
+\
+Only the pattern files are handled this way (original names were numeric). The others just use the filename as the title. \
+\
+8. Next it was decided that the summary needed to show the patterns in the same order as the pattern order. To do this, the pattern link paragraphs were simply inserted into the summary array in the slot appropriate for their number (i.e. k - 1 if k is the pattern number). The pattern number was also added to the paragraph of links representing patterns, but not the other files. \
+\
+9. Now it was time to address some issues with the files that are not patterns: the descriptive information. First, the names of the files were changed to make them more wiki friendly. So intro becomes Introduction, etc. Some hand editing of the html was first done to make the pages flow from one to the next in the original ordering. The Continue\'85 links at the bottom of the page were replaced with specific page links. Within the patterns, the flow will be handled by convert itself, but these few were done manually. Since the original is in a frameset, the outer frame file (index.html.) was removed as it has no use here. But, doing the Continue\'85 links for the patterns will require two passes over the file structure to first pick up the new names. So I'll save the current convert.rb as convertEarly.rb before I refactor it. \
+\
+10. To handle the flow of the patterns, an array (@patternNames) stores the pattern name extracted from the file in the corresponding slot in the array (pattern 1 in slot 0, etc. This array is created in the preprocess method that just extracts the name from the first paragraph of the file. Once this is done, convert can also use this array instead of getting the names again as it used to do before refactoring. Back in convert, we look for the continue\'85 content in an anchor tag and put the pattern name corresponding to the next pattern into a double bracket wiki link. If the anchor doesn't have these contents we still put the original contents into the brackets.  Note that the pattern name of the next pattern for pattern x is in slot x since pattern x itself is in slot x-1. \
+\
+11. All the rest of the processing of the files was done manually by editing the original html files in dreamweaver (or with a text editor) to make the translator we now have work. For example, the links to references were all replaced with links to the resources page and the page itself was re-done to remove the table structure, letting the converter handle it. Previously it was ignored. It took a few hours of cleanup to manage this, but wasn't very interesting. Note that the "originals" are no longer the original files and have been edited. They are now also useless as web files, since (among other things), some anchors don't point anywhere but are just encoded to make the translation to wiki form easier. \
+\
+\
+}

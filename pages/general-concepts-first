@@ -1,0 +1,44 @@
+{
+  "title": "GENERAL-CONCEPTS-FIRST",
+  "journal": [
+    {
+      "id": "357ef729ab46202a",
+      "type": "create",
+      "item": {
+        "title": "GENERAL-CONCEPTS-FIRST"
+      }
+    }
+  ],
+  "story": [
+    {
+      "text": "31. GENERAL CONCEPTS FIRST **",
+      "id": "28eb3ae593151555",
+      "type": "paragraph"
+    },
+    {
+      "text": "The brain learns best if it can associate new topics with already learned topics. The more associations the brain can create for a new topic, the better it remembers it. The brain can store new knowledge more easily if has \"categories\" in which to store new knowledge.\n  ",
+      "id": "11fb372e2c0e72c7",
+      "type": "paragraph"
+    },
+    {
+      "text": "&lt;center&gt;❖ ❖ ❖&lt;/center&gt;",
+      "id": "2757c0b6cf9cb482",
+      "type": "paragraph"
+    },
+    {
+      "text": "<b>Therefore</b>, teach general concepts first. When teaching details, or other topics that are based on the general topics taught before, this has two positive consequences: The new topic can be remembered more easily, because it can be associated with the general concepts. And the general concepts are stored more thoroughly, because they become <i>[[REPEATED TOPICS]]</i>  as new topics are introduced.\n  ",
+      "id": "2b3cdf83808b02f3",
+      "type": "paragraph"
+    },
+    {
+      "text": "For example, teach the concepts of defining logical interfaces first. Explain the advantages of pure interface definitions. Then introduce pure abstract classes (C++, Java) and interfaces (Java ,IDL) and show how they implement the general concept of an interface.\n  ",
+      "id": "64676293672ec3ad",
+      "type": "paragraph"
+    },
+    {
+      "text": "<br><b><i>Next: [[PROBLEM-ORIENTATION]]</i></b>\n<!-- Localized -->",
+      "id": "811b9850019e2ae3",
+      "type": "paragraph"
+    }
+  ]
+}

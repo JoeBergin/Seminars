@@ -1,0 +1,44 @@
+{
+  "title": "FEEDBACK",
+  "journal": [
+    {
+      "id": "2566c5c697e79483",
+      "type": "create",
+      "item": {
+        "title": "FEEDBACK"
+      }
+    }
+  ],
+  "story": [
+    {
+      "text": "34. FEEDBACK *",
+      "id": "2c38f8573a2b6dc0",
+      "type": "paragraph"
+    },
+    {
+      "text": "The participants want to learn the content of the seminar. But often, they are not sure whether they understood something until the exam or when they are back in their company. If they think that they captured a topic although they did not, they will not ask questions.\n  ",
+      "id": "c25703560d96e816",
+      "type": "paragraph"
+    },
+    {
+      "text": "&lt;center&gt;❖ ❖ ❖&lt;/center&gt;",
+      "id": "83fc378ed7b37dac",
+      "type": "paragraph"
+    },
+    {
+      "text": "<b>Therefore</b>, give the participants feedback. The feedback should be differentiated and objective. Always begin with the positive feedback. Criticism should always help the participants to improve the criticized aspect. Be sure to give the feedback in time, later feedback is not effective. Positive feedback can significantly increase motivation.\n  ",
+      "id": "0052f8c4322ce874",
+      "type": "paragraph"
+    },
+    {
+      "text": "One form to give feedback is to let the participants work on exercises, thereby they can see their learning progress. Explicit feedback by you is also possible, for example by asking questions.\n  ",
+      "id": "9f00f720086eedfa",
+      "type": "paragraph"
+    },
+    {
+      "text": "<br><b><i>Next: [[BODY-LANGUAGE]]</i></b>\n<!-- Localized -->",
+      "id": "cc5d70f6dec18db5",
+      "type": "paragraph"
+    }
+  ]
+}

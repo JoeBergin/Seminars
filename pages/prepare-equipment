@@ -1,0 +1,54 @@
+{
+  "title": "PREPARE-EQUIPMENT",
+  "journal": [
+    {
+      "id": "9d6465e776c96062",
+      "type": "create",
+      "item": {
+        "title": "PREPARE-EQUIPMENT"
+      }
+    }
+  ],
+  "story": [
+    {
+      "text": "18. PREPARE EQUIPMENT **",
+      "id": "6d53caf0b6bcd0ce",
+      "type": "paragraph"
+    },
+    {
+      "text": "<b>\n    Checkpoint: Start teaching\n    </b>",
+      "id": "8e5544483d2f63f7",
+      "type": "paragraph"
+    },
+    {
+      "text": " The sessions begin. You have to arrange your teaching in a suitable manner by giving overviews, summaries, et cetera. You should teach the content in a way that is accessible for the participants. You should include exercises. And there are some rules to follow for you as a teacher.\n",
+      "id": "275a3c211c488e13",
+      "type": "paragraph"
+    },
+    {
+      "text": "You should run the sessions smoothly, executing your <i>[[SEMINAR PLAN]]</i> without significant distractions. You should not be surprised by faulty or missing equipment, unsorted transparencies, et cetera. This creates anxiety you will probably have to abandon your <i>[[PLAN]]</i>. It creates a feeling of chaos and non-professionalism among the participants.\n  ",
+      "id": "ec2d3093e750a3cf",
+      "type": "paragraph"
+    },
+    {
+      "text": "&lt;center&gt;❖ ❖ ❖&lt;/center&gt;",
+      "id": "5f712abeafb6bf6f",
+      "type": "paragraph"
+    },
+    {
+      "text": "<b>Therefore</b>, you should prepare all the necessary equipment for a session, to let the session proceed without you leaving the room, looking for transparencies, et cetera. You need to have a <i>[[PLAN]]</i> for a session, otherwise you cannot prepare! A good <i>[[MANUSCRIPT]]</i> can simplify the preparation significantly.\n  ",
+      "id": "096e3d4b896ddb6a",
+      "type": "paragraph"
+    },
+    {
+      "text": "Some of the aspects that should be prepared are media (it is very embarrassing if you mumble something like \"Last time the transparency was there, ....\". The scripts should be available in adequate numbers. The overhead projector should work, flip chart pens should be available, you should know how to darken the room, et cetera. It is a good idea to create a checklist for this purpose, perhaps as part of the <i>[[PLAN]]</i>!\n  ",
+      "id": "8c297bc71f79ba9e",
+      "type": "paragraph"
+    },
+    {
+      "text": "<br><b><i>Next: [[BE-THERE-FIRST]]</i></b>\n<!-- Localized -->",
+      "id": "2adee01c73dbc026",
+      "type": "paragraph"
+    }
+  ]
+}

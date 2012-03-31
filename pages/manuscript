@@ -1,0 +1,64 @@
+{
+  "title": "MANUSCRIPT",
+  "journal": [
+    {
+      "id": "206ac3befc665d4c",
+      "type": "create",
+      "item": {
+        "title": "MANUSCRIPT"
+      }
+    }
+  ],
+  "story": [
+    {
+      "text": "7. MANUSCRIPT *",
+      "id": "0bbd6f2af3ac63a9",
+      "type": "paragraph"
+    },
+    {
+      "text": "The participants should be motivated to think about the things they are taught during a seminar. If they are stressed by copying contents from the blackboard or a transparency, this is not possible.\n  On the other hand, writing things yourself can be a good way of learning.\n  ",
+      "id": "d4cc51481405edd1",
+      "type": "paragraph"
+    },
+    {
+      "text": "&lt;center&gt;❖ ❖ ❖&lt;/center&gt;",
+      "id": "b7ee6f73d944b8e1",
+      "type": "paragraph"
+    },
+    {
+      "text": "<b>Therefore</b>, use a manuscript that is built along the following lines:\n  ",
+      "id": "0c273652af9f13c8",
+      "type": "paragraph"
+    },
+    {
+      "text": "It should capture the <i>[[SEMINAR PLAN]]</i> by stating important goals, facts or milestones explicitly. You can then use it as guideline for the seminar and the participants can use it to <i>[[REFERENCE THE PLAN]]</i>.\n    ",
+      "id": "9b8218920cdca04a",
+      "type": "paragraph"
+    },
+    {
+      "text": "It should be detailed enough. The participants should not have to write down too much to capture important aspects. Especially, complex drawings or diagrams should be included in the manuscript.\n    ",
+      "id": "ea70b98410a0bf00",
+      "type": "paragraph"
+    },
+    {
+      "text": "Be sure to provide enough room for the participants to annotate the manuscript with their own comments, sketches or explanations.\n    ",
+      "id": "87f5c092dabf2a4d",
+      "type": "paragraph"
+    },
+    {
+      "text": "For you as the teacher, the manuscript should leave enough room for you to \"add value\". If it is too detailed, the participants could also read the manuscript at home and you would be superfluous.\n  ",
+      "id": "9ce4fa49a3c776bb",
+      "type": "paragraph"
+    },
+    {
+      "text": "The manuscript is not the same as the transparencies. The transparencies should contain only the important facts and leave you enough freedom to explain things verbally. In contrast, the manuscript should be self-explanatory and complete.\n  ",
+      "id": "87ecef3dee9c81d9",
+      "type": "paragraph"
+    },
+    {
+      "text": "<br><b><i>Next: [[BREAKS]]</i></b>\n<!-- Localized -->",
+      "id": "c4d161938cace5b0",
+      "type": "paragraph"
+    }
+  ]
+}

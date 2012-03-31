@@ -1,0 +1,29 @@
+{
+  "title": "Contents",
+  "journal": [
+    {
+      "id": "4b655bfd53ca6e5c",
+      "type": "create",
+      "item": {
+        "title": "Contents"
+      }
+    }
+  ],
+  "story": [
+    {
+      "text": "<b>Introduction</b><br><i>[[Title And License]]</i><br><i>[[Introduction]]</i><br><i>[[Pattern Language]]</i><br><i>[[Prerequisites]]</i><br><i>[[The Language Form]]</i><br><i>[[Map]]</i><br><i>[[Quick Access]]</i><br>",
+      "id": "34f0b3c7236899de",
+      "type": "paragraph"
+    },
+    {
+      "text": "<b>The Patterns</b><br>\n  1. <i>[[Check Prerequisites]]</i><br>\n  2. <i>[[Adapt To Participants Background]]</i><br>\n  3. <i>[[Let Them Decide]]</i><br>\n  4. <i>[[Comfortable Environment]]</i><br>\n  5. <i>[[Seminar Plan]]</i><br>\n  6. <i>[[Reference The Plan]]</i><br>\n  7. <i>[[Manuscript]]</i><br>\n  8. <i>[[Breaks]]</i><br>\n  9. <i>[[Buffers]]</i><br>\n  10. <i>[[Review After Breaks]]</i><br>\n  11. <i>[[Summary]]</i><br>\n  12. <i>[[Welcome The Participants]]</i><br>\n  13. <i>[[Introduction Session]]</i><br>\n  14. <i>[[Personal Communication]]</i><br>\n  15. <i>[[Anonymous Mailbox]]</i><br>\n  16. <i>[[Nameplate]]</i><br>\n  17. <i>[[Games]]</i><br>\n  18. <i>[[Prepare Equipment]]</i><br>\n  19. <i>[[Be There First]]</i><br>\n  20. <i>[[Different Approaches]]</i><br>\n  21. <i>[[Work Forms]]</i><br>\n  22. <i>[[Table Arrangement]]</i><br>\n  23. <i>[[Let The Plan Go]]</i><br>\n  24. <i>[[Different Exercise Levels]]</i><br>\n  25.<i>[[ Display Results And Problems]]</i><br>\n  26. <i>[[Exercises Emphasize Process]]</i><br>\n  27. <i>[[Name Is Last]]</i><br>\n  28. <i>[[Relevant Examples]]</i><br>\n  29. <i>[[Digestible Packets]]</i><br>\n  30. <i>[[Separate Similar Content]]</i><br>\n  31. <i>[[General Concepts First]]</i><br>\n  32. <i>[[Problem Orientation]]</i><br>\n  33. <i>[[Repeat Topics]]</i><br>\n  34. <i>[[Feedback]]</i><br>\n  35. <i>[[Body Language]]</i><br>\n  36. <i>[[Teacher Teams]]</i><br>\n  37. <i>[[Honor Questions]]</i><br>\n  38. <i>[[Nobody Is Perfect]]</i><br>\n  39. <i>[[Teacher'S Language]]</i><br>\n  40. <i>[[Invisible Teacher]]</i><br>\n  41. <i>[[Change Media]]</i><br>\n  42. <i>[[Use Participants Media]]</i><br>\n  43. <i>[[Participants Feedback Form]]</i><br>\n  44. <i>[[Kind Of Exam]]</i><br>\n  45. <i>[[Trial Exam]]</i><br>\n  46. <i>[[Selectable Exam Time]]</i><br>\n  47. <i>[[Differentiated Feedback]]</i><br>\n  48. <i>[[Seminar Debrief]]</i><br>",
+      "id": "b560220deec4fa83",
+      "type": "paragraph"
+    },
+    {
+      "text": "<b>Other Stuff</b><br><i>[[Related Material]]</i><br><i>[[Acknowledgements]]</i><br><i>[[Resources]]</i><br>",
+      "id": "349a2c049264d2c7",
+      "type": "paragraph"
+    }
+  ]
+}

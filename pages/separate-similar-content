@@ -1,0 +1,44 @@
+{
+  "title": "SEPARATE-SIMILAR-CONTENT",
+  "journal": [
+    {
+      "id": "b03f922e2a361f36",
+      "type": "create",
+      "item": {
+        "title": "SEPARATE-SIMILAR-CONTENT"
+      }
+    }
+  ],
+  "story": [
+    {
+      "text": "30. SEPARATE SIMILAR CONTENT *",
+      "id": "12d25d7e2089231e",
+      "type": "paragraph"
+    },
+    {
+      "text": "Often, a seminar's content covers several similar, but not identical topics. When such similar topics are taught without enough temporal separation, the brain is not able to distinguish the topics correctly. This creates confusion for the participants and the they might create wrong associations. The same is true for similar terms with different meanings.\n  ",
+      "id": "8a0752af00a39a1a",
+      "type": "paragraph"
+    },
+    {
+      "text": "&lt;center&gt;❖ ❖ ❖&lt;/center&gt;",
+      "id": "3a74c5a326b0f479",
+      "type": "paragraph"
+    },
+    {
+      "text": "<b>Therefore</b>, do not present similar, but slightly different topics in sequence. Separate similar contents in time and explain clearly, when one is used, and when the other one. Be sure that the participants really understand a topic before you introduce another, similar concept.\n  ",
+      "id": "0bb855ed24c375bd",
+      "type": "paragraph"
+    },
+    {
+      "text": "Comparisons of two similar topics should only be done if the two topics are understood thoroughly. Never try to show the differences to not yet covered topics when explaining a specific topic (\"As you will see later, this is different from ...\").\n  ",
+      "id": "03e665842fe04116",
+      "type": "paragraph"
+    },
+    {
+      "text": "<br><b><i>Next: [[GENERAL-CONCEPTS-FIRST]]</i></b>\n<!-- Localized -->",
+      "id": "0321428736bfb1e9",
+      "type": "paragraph"
+    }
+  ]
+}

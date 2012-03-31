@@ -1,0 +1,84 @@
+{
+  "title": "The Language Form",
+  "journal": [
+    {
+      "id": "008ec46bd0d91beb",
+      "type": "create",
+      "item": {
+        "title": "The Language Form"
+      }
+    }
+  ],
+  "story": [
+    {
+      "text": "The patterns in this pattern language use a form similar to the one used by Alexander in his book A Pattern Language (see [CA} in <i>[[Resources]]</i>). All patterns are written in the you-form, thus directly talking to you, the teacher. In addition to the pattern name, each pattern is divided into three sections. The first section describes the problem and the forces (bold font). The second section (below the jjj) outlines the solution to the described problem as well as the consequences, limitations, and disadvantages. The third section provides examples and additional information (italic font) on implementing the pattern. References to other patterns in this language are printed in CAPITAL LETTERS.\n  ",
+      "id": "1303775948de2433",
+      "type": "paragraph"
+    },
+    {
+      "text": "Insert image: form.gif here.",
+      "id": "be42d1383baf4f5f",
+      "type": "paragraph"
+    },
+    {
+      "text": "In addition, each pattern is marked with zero, one or two asterisks (*), as in Alexander's patterns, they show how \"alive\" we believe the pattern is.\n  ",
+      "id": "492836697888394d",
+      "type": "paragraph"
+    },
+    {
+      "text": "Two asterisks denote patterns that state invariants. We believe that these patterns are essential and that the associated problem cannot be solved in a significantly different way. One asterisk means that we think that we are on the right track, but there might be room for improvement of the patterns. For patterns with no asterisk we are sure that there are other, perhaps better ways of solving the problem, but we have not yet found them.\n  ",
+      "id": "173f9e0bd76b9fa2",
+      "type": "paragraph"
+    },
+    {
+      "text": "This section describes the pattern language itself, which is built from the single patterns. The pattern language is divided into different phases, each beginning and ending with a checkpoint. The following is an overview of the language, assuming that you are assigned to run a seminar on a given topic with a defined audience.\n  ",
+      "id": "963004ea2ed6478d",
+      "type": "paragraph"
+    },
+    {
+      "text": "The first task is to prepare the seminar by structuring the contents and creating a comfortable environment in which to teach. This phase defines the foundation that is needed to execute a successful seminar.\n  ",
+      "id": "cea0f2c1510cffba",
+      "type": "paragraph"
+    },
+    {
+      "text": "You are now ready to start the seminar. The participants arrive. You should welcome the participants, create a comfortable atmosphere and make room for personal communication. This phase is important from a social point of view.\n  ",
+      "id": "ded1d81ccb79f927",
+      "type": "paragraph"
+    },
+    {
+      "text": "The sessions begin. You have to arrange your teaching in a suitable manner by giving overviews, summaries, et cetera. You should teach the content in a way that is accessible for the participants. You should include exercises that reinforce the content. There are rules to follow for you as a teacher.\n  ",
+      "id": "30136f35b4c6a136",
+      "type": "paragraph"
+    },
+    {
+      "text": "Now that the teaching is over and the participants have successfully learned the required topics, it is time for the exam.\n  ",
+      "id": "a3c31cad4b471107",
+      "type": "paragraph"
+    },
+    {
+      "text": "The seminar is over and it is time to look back.\n  ",
+      "id": "9584a95cf29e032a",
+      "type": "paragraph"
+    },
+    {
+      "text": "In the map that follows below, the following symbology is used (see sketch below):\n  ",
+      "id": "b1134a2e9764a816",
+      "type": "paragraph"
+    },
+    {
+      "text": "Insert image: mapLegend.gif here.",
+      "id": "83fddc2510af30e4",
+      "type": "paragraph"
+    },
+    {
+      "text": "Pattern A must be implemented successfully before Pattern B can be implemented. This describes a kind of temporal ordering. Pattern C is a way to implement Pattern A. It could also be seen as a kind of specialization. Patterns B and D share a common context and are therefore grouped.\n  ",
+      "id": "92787a6048656491",
+      "type": "paragraph"
+    },
+    {
+      "text": "<br>\n  Next: <b><i>[[Map]]</i></b>\n<!-- Localized -->",
+      "id": "2fcbd60083751947",
+      "type": "paragraph"
+    }
+  ]
+}

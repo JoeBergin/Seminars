@@ -1,0 +1,49 @@
+{
+  "title": "BUFFERS",
+  "journal": [
+    {
+      "id": "7cfc5973b0cf02be",
+      "type": "create",
+      "item": {
+        "title": "BUFFERS"
+      }
+    }
+  ],
+  "story": [
+    {
+      "text": "9. BUFFERS **",
+      "id": "5351e2592797ebbd",
+      "type": "paragraph"
+    },
+    {
+      "text": "During a course, unforeseen problems and topics will arise. Participants might have important questions, pet problems, or related side topics. You should be able to incorporate these additional topics (at least to some extent) without ruining your plan. You should not ask the participants to \"add an extra hour/day\" to include the additional topics or to answer a participant's question.\n  ",
+      "id": "15a4be16adba8de3",
+      "type": "paragraph"
+    },
+    {
+      "text": "&lt;center&gt;❖ ❖ ❖&lt;/center&gt;",
+      "id": "7f813d2a387e9101",
+      "type": "paragraph"
+    },
+    {
+      "text": "<b>Therefore</b>, when creating the plan, keep these unforeseen requirements in mind by including time buffers. Because unforeseen topics will come up in any seminar, it is safe to incorporate these time buffers from the beginning. If not, you can finish early! However, be sure not to drift too far from your <i>[[SEMINAR PLAN]]</i>. If a question is completely out of the scope of the seminar, answer it off-line.\n  ",
+      "id": "8b40490fce719945",
+      "type": "paragraph"
+    },
+    {
+      "text": "The schedule can contain periods marked as buffers, or, alternatively, some parts of the content could be marked as \"optional\", these parts can then be replaced by one of the unplanned topics. If the unplanned topic is similar to a planned example consider replacing the example with the unplanned topic.\n  ",
+      "id": "8d2a7ed2e6af3155",
+      "type": "paragraph"
+    },
+    {
+      "text": "During a seminar on Design Patterns, we had enough time to discuss patterns in the context in the participants' company's product (which is written in their own OO language, making the discussion even more interesting). This had a positive effect on the overall success of the seminar.\n  ",
+      "id": "b8de5cb3cd4e1d99",
+      "type": "paragraph"
+    },
+    {
+      "text": "<br><b><i>Next: [[REVIEW-AFTER-BREAKS]]</i></b>\n<!-- Localized -->",
+      "id": "5954998c6fba9194",
+      "type": "paragraph"
+    }
+  ]
+}

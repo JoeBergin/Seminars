@@ -1,0 +1,27 @@
+<style>
+
+dummy   {}
+
+H1      { font-family: sans-serif; font-size: large;  }
+H2      { font-family: sans-serif; font-size: medium;  }
+H3      { font-family: sans-serif; font-size: small;  }
+P       { font-family: serif; font-size: medium; line-height: 1.2; text-align: left; margin-right: 20px; }
+.special  { font-family: sans-serif; font-size: small; text-align: center }
+.smallcontent  { font-family: sans-serif; font-size: small;  }
+.special2 { font-family: serif; font-size: small; text-align: center }
+.cite     { font-family: serif; font-size: small; text-align: center; line-height: 1.0; text-align: left; margin-left: 40px; margin-right: 40px; }
+.patHeading { font-family: sans-serif; font-size: medium; text-align: left; font-weight:bold }
+.patProblem { font-family: serif; font-size: medium; text-align: left; text-align: left; font-weight:bold }
+.patSolution { font-family: serif; font-size: medium; text-align: left; text-align: left; }
+.patExample  { font-family: serif; font-size: medium; text-align: left; text-align: left; font-style:italic }
+TABLE       { font-family: serif;
+              font-size: small;
+              line-height: normal;
+              text-align: left;
+            }
+UL          { font-family: serif; line-height: 1.2; font-size: medium; text-align: left; margin-left: 20px; }
+IMG         { margin-left: 0px; text-align:center; }
+TD          { font-family: serif; font-size: medium; line-height: normal; text-align: left; line-height: 1.2; }
+TR TD       { font-family: serif; font-size: medium; line-height: normal; text-align: left; line-height: 1.2; }
+
+</style>

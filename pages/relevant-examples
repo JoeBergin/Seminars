@@ -1,0 +1,64 @@
+{
+  "title": "RELEVANT-EXAMPLES",
+  "journal": [
+    {
+      "id": "6564a535c21a7bdc",
+      "type": "create",
+      "item": {
+        "title": "RELEVANT-EXAMPLES"
+      }
+    }
+  ],
+  "story": [
+    {
+      "text": "28. RELEVANT EXAMPLES **",
+      "id": "754803d9647102cb",
+      "type": "paragraph"
+    },
+    {
+      "text": "Examples facilitate learning by providing illustrations for abstract concepts. The examples should help the participants to understand the topics. Examples should not be a \"new problem\" for the participants. The participants should realize the example problem immediately. If the example is not easily understandable, it further complicates the learning process.\n  ",
+      "id": "ca6c69d002a27bae",
+      "type": "paragraph"
+    },
+    {
+      "text": "&lt;center&gt;❖ ❖ ❖&lt;/center&gt;",
+      "id": "d0ce41b28d7d4879",
+      "type": "paragraph"
+    },
+    {
+      "text": "<b>Therefore</b>, always use relevant examples, ideally from the participants' domain, thereby <i>[[ADAPTING TO THE PARTICIPANTS BACKGROUND]]</i>. They will be able to understand the examples and the underlying topics more easily because they are familiar with the domain. In addition, they can see that the newly learned concepts are relevant to them.\n  ",
+      "id": "2f1c2058eabadb1e",
+      "type": "paragraph"
+    },
+    {
+      "text": "Try to distinguish between\n  ",
+      "id": "a8db46b2258f5eb5",
+      "type": "paragraph"
+    },
+    {
+      "text": "examples at the beginning of a new topic when using <i>[[PROBLEM ORIENTATION]]</i>: it is intended and useful if an example introduces a new, not readily solvable problem; and ",
+      "id": "8b39974f846cca45",
+      "type": "paragraph"
+    },
+    {
+      "text": "examples that are used to illustrate an already covered topic. These should not introduce \"new\" problems.",
+      "id": "48e2b0bbcb1f9be0",
+      "type": "paragraph"
+    },
+    {
+      "text": "Ideally, you should use examples that have really been (or currently are) a problem in the participants domain. Perhaps, the participants have already tried to solve the problem with other, unsuitable tools or techniques. Then, the participants can directly see, how their problems can be solved with the new knowledge.\n  ",
+      "id": "7cbe2f8d484fe1ff",
+      "type": "paragraph"
+    },
+    {
+      "text": "In general, it is also important, that you use up-to-date examples. It is your job to gather such examples. It is also very bad to use examples that have already been solved with another, even more suitable technique.\n  ",
+      "id": "a5f609acd9794d43",
+      "type": "paragraph"
+    },
+    {
+      "text": "<br><b><i>Next: [[DIGESTIBLE-PACKETS]]</i></b>\n<!-- Localized -->",
+      "id": "c1daf88e2efaf827",
+      "type": "paragraph"
+    }
+  ]
+}
