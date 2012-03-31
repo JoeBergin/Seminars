@@ -2,7 +2,7 @@
   "title": "Seminars",
   "journal": [
     {
-      "id": "9afd617b8654347a",
+      "id": "7797bcac67a52572",
       "type": "create",
       "item": {
         "title": "Seminars"
@@ -12,302 +12,302 @@
   "story": [
     {
       "text": "1. [[CHECK-PREREQUISITES]]",
-      "id": "d8f948cf51082844",
+      "id": "3b32041082cb28c8",
       "type": "paragraph"
     },
     {
       "text": "2. [[ADAPT-TO-PARTICIPANTS-BACKGROUND]]",
-      "id": "7fa7533ebf83b1fa",
+      "id": "450cb20c878c84e6",
       "type": "paragraph"
     },
     {
       "text": "3. [[LET-THEM-DECIDE]]",
-      "id": "a1307be73ac82632",
+      "id": "017caedda3a2e6f4",
       "type": "paragraph"
     },
     {
       "text": "4. [[COMFORTABLE-ENVIRONMENT]]",
-      "id": "63a44df519e33033",
+      "id": "65fe29739483e566",
       "type": "paragraph"
     },
     {
       "text": "5. [[SEMINAR-PLAN]]",
-      "id": "92adc35290869014",
+      "id": "31f9b22481245ddd",
       "type": "paragraph"
     },
     {
       "text": "6. [[REFERENCE-THE-PLAN]]",
-      "id": "cff6451bd8939e4c",
+      "id": "cb82ed3fe4c3e3fb",
       "type": "paragraph"
     },
     {
       "text": "7. [[MANUSCRIPT]]",
-      "id": "9b23ad8136877388",
+      "id": "3c7265d41ee8e15f",
       "type": "paragraph"
     },
     {
       "text": "8. [[BREAKS]]",
-      "id": "a315c9ee9c27f224",
+      "id": "98b3305aa31da531",
       "type": "paragraph"
     },
     {
       "text": "9. [[BUFFERS]]",
-      "id": "2703f9258097be8b",
+      "id": "1daded78141fca49",
       "type": "paragraph"
     },
     {
       "text": "10. [[REVIEW-AFTER-BREAKS]]",
-      "id": "7a83a6ae4854427b",
+      "id": "c00aec45d5e6d8e8",
       "type": "paragraph"
     },
     {
       "text": "11. [[SUMMARY]]",
-      "id": "6235dfa1bec87474",
+      "id": "d20196d4cbbc2fc9",
       "type": "paragraph"
     },
     {
       "text": "12. [[WELCOME-THE-PARTICIPANTS]]",
-      "id": "1cf3147df0b97020",
+      "id": "4d70175f06b86a24",
       "type": "paragraph"
     },
     {
       "text": "13. [[INTRODUCTION-SESSION]]",
-      "id": "a122e41c69be33eb",
+      "id": "e59d814d3b8bca5d",
       "type": "paragraph"
     },
     {
       "text": "14. [[PERSONAL-COMMUNICATION]]",
-      "id": "9a1947602cbd2d8a",
+      "id": "7896c69a221351d8",
       "type": "paragraph"
     },
     {
       "text": "15. [[ANONYMOUS-MAILBOX]]",
-      "id": "9f84391cf08809ce",
+      "id": "8b0cf0694f5ed00e",
       "type": "paragraph"
     },
     {
       "text": "16. [[NAMEPLATE]]",
-      "id": "42599225500b44c3",
+      "id": "adbcb5528b4e76d3",
       "type": "paragraph"
     },
     {
       "text": "17. [[GAMES]]",
-      "id": "fa557f65459cd27e",
+      "id": "81553a32b212ecb1",
       "type": "paragraph"
     },
     {
       "text": "18. [[PREPARE-EQUIPMENT]]",
-      "id": "bc470b9e16422fed",
+      "id": "7ceda1ce2e05e850",
       "type": "paragraph"
     },
     {
       "text": "19. [[BE-THERE-FIRST]]",
-      "id": "7126cf13d0e104d3",
+      "id": "a805367006f9d830",
       "type": "paragraph"
     },
     {
       "text": "20. [[DIFFERENT-APPROACHES]]",
-      "id": "93f243322af1d534",
+      "id": "5dc2834a4484181c",
       "type": "paragraph"
     },
     {
       "text": "21. [[WORK-FORMS]]",
-      "id": "e17b25e34fe661ca",
+      "id": "6eee663f4e9a74c4",
       "type": "paragraph"
     },
     {
       "text": "22. [[TABLE-ARRANGEMENT]]",
-      "id": "2aa8cce7ab0335ee",
+      "id": "c7463dfcdaffe845",
       "type": "paragraph"
     },
     {
       "text": "23. [[LET-THE-PLAN-GO]]",
-      "id": "d07dca0176f4c459",
+      "id": "902a30490d60779e",
       "type": "paragraph"
     },
     {
       "text": "24. [[DIFFERENT-EXERCISE-LEVELS]]",
-      "id": "04b5cb68e13ecf5d",
+      "id": "349dfe66449ef7a0",
       "type": "paragraph"
     },
     {
       "text": "25. [[DISPLAY-RESULTS-AND-PROBLEMS]]",
-      "id": "e01873e78973f16d",
+      "id": "12df320fcb1d0527",
       "type": "paragraph"
     },
     {
       "text": "26. [[EXERCISES-EMPHASIZE-PROCESS]]",
-      "id": "f975b2f626a49932",
+      "id": "b4786b2151ad4143",
       "type": "paragraph"
     },
     {
       "text": "27. [[NAME-IS-LAST]]",
-      "id": "4101e98d93b22bb4",
+      "id": "2e042a25535daa6a",
       "type": "paragraph"
     },
     {
       "text": "28. [[RELEVANT-EXAMPLES]]",
-      "id": "2138c1b141cf2c5f",
+      "id": "e55c1aa87cc4d412",
       "type": "paragraph"
     },
     {
       "text": "29. [[DIGESTIBLE-PACKETS]]",
-      "id": "d9ba28e73ca47126",
+      "id": "875667971d83db79",
       "type": "paragraph"
     },
     {
       "text": "30. [[SEPARATE-SIMILAR-CONTENT]]",
-      "id": "269141125447a4af",
+      "id": "d60f6f11d363754e",
       "type": "paragraph"
     },
     {
       "text": "31. [[GENERAL-CONCEPTS-FIRST]]",
-      "id": "695805b41afe9109",
+      "id": "aa2562e57c37866c",
       "type": "paragraph"
     },
     {
       "text": "32. [[PROBLEM-ORIENTATION]]",
-      "id": "d2820be4a5812694",
+      "id": "de46325ceb78f357",
       "type": "paragraph"
     },
     {
       "text": "33. [[REPEAT-TOPICS]]",
-      "id": "c28f43adbe2b751d",
+      "id": "d3445be2deaabc44",
       "type": "paragraph"
     },
     {
       "text": "34. [[FEEDBACK]]",
-      "id": "b70e04dd9f60d14c",
+      "id": "158bd689b4c4ca69",
       "type": "paragraph"
     },
     {
       "text": "35. [[BODY-LANGUAGE]]",
-      "id": "a3fe96d6ed6c9d63",
+      "id": "b180c4925f442368",
       "type": "paragraph"
     },
     {
       "text": "36. [[TEACHER-TEAMS]]",
-      "id": "c03f59f1e0069609",
+      "id": "06a1df5315a8c858",
       "type": "paragraph"
     },
     {
       "text": "37. [[HONOR-QUESTIONS]]",
-      "id": "ac73f301f6ab7753",
+      "id": "4cab45ae2a02b618",
       "type": "paragraph"
     },
     {
       "text": "38. [[NOBODY-IS-PERFECT]]",
-      "id": "dc000cd3ebe7966e",
+      "id": "5f328a0755bc3152",
       "type": "paragraph"
     },
     {
       "text": "39. [[TEACHERS-LANGUAGE]]",
-      "id": "ec1484ceed854c1f",
+      "id": "133713ef47aa7d47",
       "type": "paragraph"
     },
     {
       "text": "40. [[INVISIBLE-TEACHER]]",
-      "id": "c0e1a6c7204cfb81",
+      "id": "3e1620f292488549",
       "type": "paragraph"
     },
     {
       "text": "41. [[CHANGE-MEDIA]]",
-      "id": "55b39390cbfadfbe",
+      "id": "2f733a89f1473341",
       "type": "paragraph"
     },
     {
       "text": "42. [[USE-PARTICIPANTS-MEDIA]]",
-      "id": "d01152ac12f7def3",
+      "id": "5420347e279e6af2",
       "type": "paragraph"
     },
     {
       "text": "43. [[PARTICIPANTS-FEEDBACK-FORM]]",
-      "id": "18162fbef49cc7c9",
+      "id": "3cfe044ea0a419c1",
       "type": "paragraph"
     },
     {
       "text": "44. [[KIND-OF-EXAM]]",
-      "id": "be52625764fe5d0d",
+      "id": "719d6efea8f3c4af",
       "type": "paragraph"
     },
     {
       "text": "45. [[TRIAL-EXAM]]",
-      "id": "b44a3a1c3924a4f0",
+      "id": "9cc1bd77ebddea5d",
       "type": "paragraph"
     },
     {
       "text": "46. [[SELECTABLE-EXAM-TIME]]",
-      "id": "ad38faaf4bb62755",
+      "id": "948e4405a46cc467",
       "type": "paragraph"
     },
     {
       "text": "47. [[DIFFERENTIATED-FEEDBACK]]",
-      "id": "f8406773794dfd12",
+      "id": "e663915c9d3e86c9",
       "type": "paragraph"
     },
     {
       "text": "48. [[SEMINAR-DEBRIEF]]",
-      "id": "4812cd792bf18d12",
+      "id": "cce3953710cfa557",
       "type": "paragraph"
     },
     {
       "text": "[[Acknowledgements]]",
-      "id": "b5bf2290be9ea8a3",
+      "id": "5b7af55849d23c4f",
       "type": "paragraph"
     },
     {
       "text": "[[Comments]]",
-      "id": "dc929c3c8d68adae",
+      "id": "a72719494736bec9",
       "type": "paragraph"
     },
     {
       "text": "[[Contents]]",
-      "id": "a26f210495811206",
+      "id": "b7237ea5a3ada3fb",
       "type": "paragraph"
     },
     {
       "text": "[[Introduction]]",
-      "id": "174e6a7f02f9ceeb",
+      "id": "c84c83dbfcbff47c",
       "type": "paragraph"
     },
     {
       "text": "[[Map]]",
-      "id": "5e23f2870e665a46",
+      "id": "0242f8d921da7dbc",
       "type": "paragraph"
     },
     {
       "text": "[[Pattern Language]]",
-      "id": "54022c1ff35db87a",
+      "id": "7c28e3d52c2563f7",
       "type": "paragraph"
     },
     {
       "text": "[[Prerequisites]]",
-      "id": "d077a6fb91356d23",
+      "id": "0679d807f0430eb8",
       "type": "paragraph"
     },
     {
       "text": "[[Quick Access]]",
-      "id": "3577c5dae5289643",
+      "id": "9daafaffab1247ec",
       "type": "paragraph"
     },
     {
       "text": "[[Related Material]]",
-      "id": "3cca3e268e249f52",
+      "id": "c90e0952fc616e27",
       "type": "paragraph"
     },
     {
       "text": "[[Resources]]",
-      "id": "59c61d6d813d8e44",
+      "id": "e4e336a6c9f45021",
       "type": "paragraph"
     },
     {
       "text": "[[The Language Form]]",
-      "id": "fdccf039b1dcc006",
+      "id": "119d3dee1f0bff88",
       "type": "paragraph"
     },
     {
       "text": "[[Title And License]]",
-      "id": "09e4e8684beaa2ae",
+      "id": "64f8c3344a471ddf",
       "type": "paragraph"
     }
   ]

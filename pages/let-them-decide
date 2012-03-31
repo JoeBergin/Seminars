@@ -2,7 +2,7 @@
   "title": "LET-THEM-DECIDE",
   "journal": [
     {
-      "id": "ae045259a8b162fc",
+      "id": "cd2f82cad7724eb0",
       "type": "create",
       "item": {
         "title": "LET-THEM-DECIDE"
@@ -12,37 +12,37 @@
   "story": [
     {
       "text": "3. LET THEM DECIDE *",
-      "id": "51861a2008464760",
+      "id": "75a171bc05cb2192",
       "type": "paragraph"
     },
     {
       "text": "You want to <i>[[ADAPT TO PARTICIPANTS BACKGROUND]]</i>, but you are not completely sure about how to do this regarding the contents the schedule or the methodology. Sometimes it is impossible to make these decisions in advance because the exact skills or interests of the participants are not known.\n  ",
-      "id": "82e53daa7fae0c83",
+      "id": "f0a9a0fa02326975",
       "type": "paragraph"
     },
     {
       "text": "&lt;center&gt;❖ ❖ ❖&lt;/center&gt;",
-      "id": "47960cf4814be275",
+      "id": "f2e1269f186c6a08",
       "type": "paragraph"
     },
     {
       "text": "<b>Therefore</b>, involve the participants in the planning of the seminar, or give them some alternatives at the beginning of the seminar. The participants will feel better and the seminar will be more relevant to them, because they were involved in deciding what will be taught, and how.\n  ",
-      "id": "fdef4d237adf6598",
+      "id": "e090152401b9e937",
       "type": "paragraph"
     },
     {
       "text": "For example, you could ask them how often they want to have breaks, which examples or exercises they want to see (from a set of possible alternatives), or you could ask them whether they would prefer a more active involvement (exercises, group work) or whether they would like you to do a more presentation-style seminar.\n  ",
-      "id": "7c8d18dd1c197f5e",
+      "id": "34bf19d7cc621293",
       "type": "paragraph"
     },
     {
       "text": "It is also a good idea to build your seminars from \"components\". There can be some basic components (e.g. Java introduction of Java for C++ programmers) that create the foundation on which advanced components can build (such as RMI, JNI, EJB or Swing). The participants can choose one of the basic components and then add any number of the advanced components.\n  ",
-      "id": "c1c77da03c68bf90",
+      "id": "7a6f7b39d16f95c4",
       "type": "paragraph"
     },
     {
       "text": "<br><b><i>Next: [[COMFORTABLE-ENVIRONMENT]]</i></b>\n<!-- Localized -->",
-      "id": "596746b3dbefff6d",
+      "id": "8ee605cd51862a1c",
       "type": "paragraph"
     }
   ]

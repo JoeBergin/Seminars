@@ -2,7 +2,7 @@
   "title": "SEMINAR-PLAN",
   "journal": [
     {
-      "id": "5615e9c91cc5b4ec",
+      "id": "0fd563e2ab8e16bb",
       "type": "create",
       "item": {
         "title": "SEMINAR-PLAN"
@@ -12,42 +12,42 @@
   "story": [
     {
       "text": "5. SEMINAR PLAN **",
-      "id": "c015452845f6bd96",
+      "id": "1558a1defdc1aa67",
       "type": "paragraph"
     },
     {
       "text": "Usually, you are very familiar with the content of the seminar you teach. You might not realize the problems the participants might have because you deal with the contents all the time and know them by heart. Often, this results in an unstructured approach to the content which is hard for the participants to follow. You should not believe that talking a lot compensates for an unstructured approach, because you might not distinguish between important and not so important topics. In addition, you will not want to say things like\"Oh, I forgot to say when we were talking about XY....\".\n  ",
-      "id": "dfa61c494bbbb294",
+      "id": "1a1bed5061fffa6c",
       "type": "paragraph"
     },
     {
       "text": "&lt;center&gt;❖ ❖ ❖&lt;/center&gt;",
-      "id": "bb4ebadf6394f986",
+      "id": "b2a106f04084cecc",
       "type": "paragraph"
     },
     {
       "text": "<b>Therefore</b>, create a plan, or an agenda. This helps you to determine a general strategy for your seminar. The plan will keep you from drifting off into non-issues. Try to create plans on different abstraction levels, a high-level plan for the complete seminar and detailed plans for each topic. The plans should highlight important topics and define goals you want the participants to reach.\n  ",
-      "id": "329ddc338ad8ed13",
+      "id": "7913cd3fe50986f9",
       "type": "paragraph"
     },
     {
       "text": "You should <i>[[CHECK PREREQUISITES]]</i> before creating the plans. Integrate them with a schedule including BREAKS, BUFFERS, et cetera.\n  ",
-      "id": "05900daa7f6ba4a0",
+      "id": "5114bee9e9307342",
       "type": "paragraph"
     },
     {
       "text": "During the seminar, try to explicitly <i>[[REFERENCE THE PLAN]]</i>. If the atmosphere gets bad or if people try to disturb the session, be flexible enough to <i>[[LET THE PLAN GO]]</i>.\n  ",
-      "id": "29a82c2e297f5fbc",
+      "id": "a8229db4bb6a499a",
       "type": "paragraph"
     },
     {
       "text": "A good plan is the result of experience. Be sure to adapt the plan from seminar to seminar, to incorporate new experience. During a seminar, continuously check whether the plan is still current and whether you are still on schedule. If not, the plan has to be adapted. Doing this regularly means that you can adapt it in a sensible way and not just skip the last chapter, because you run out of time.\n  ",
-      "id": "4824234db844540c",
+      "id": "b195bd097844a251",
       "type": "paragraph"
     },
     {
       "text": "<br><b><i>Next: [[REFERENCE-THE-PLAN]]</i></b>\n<!-- Localized -->",
-      "id": "669971fc997f5bfb",
+      "id": "e9ff455e778427a4",
       "type": "paragraph"
     }
   ]

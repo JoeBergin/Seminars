@@ -2,7 +2,7 @@
   "title": "Related Material",
   "journal": [
     {
-      "id": "c805659e453dde6a",
+      "id": "662f75c867d0d4a4",
       "type": "create",
       "item": {
         "title": "Related Material"
@@ -12,72 +12,72 @@
   "story": [
     {
       "text": "There is another pattern language covering the same topic by Dana L.G. Anthony, it is called Patterns For Classroom Education and it is published in [PLOP2] (<i>[[Resources]]</i>). Its focus is on teaching \"difficult technical topics\" and covers patterns like Simulation Games and Debrief after Activities.\n  ",
-      "id": "b69966d6ef117527",
+      "id": "1d77cde489b47b70",
       "type": "paragraph"
     },
     {
       "text": "The following paragraphs relate this pattern language to some of the patterns that can be found at the homepage of the Pedagogical Pattern Project: [PP] in <i>[[Resources]]</i>.\n  ",
-      "id": "db47cf1bff4f3446",
+      "id": "822e486cea6f8192",
       "type": "paragraph"
     },
     {
       "text": "To implement the <i>[[SUMMARY]]</i> pattern, the Class Concept Map Pattern by Jeanine Meyer can be used. This pattern proposes that the whole class jointly tries to create a concept map that relates all the different terms and concepts taught during a session.\n  ",
-      "id": "8ae18e52c507386e",
+      "id": "eede642f1907fef4",
       "type": "paragraph"
     },
     {
       "text": "The CoG-PADD pattern by Donald J. Bagert also proposes to start with a motivating problem when introducing a new topic. This is also proposed in the <i>[[PROBLEM ORIENTATION]]</i> pattern in this pattern language. Ian Chai's Concrete to Abstraction pattern ([PP] in <i>[[Resources]]</i>) proposes to start a new topic with an example, thereby describing a real world problem that the new topic can solve. Alan O'Callaghan explains that a programming should be taught as \"a means to solving problems\" in his Model and Implement Pattern.\n  ",
-      "id": "e8dba9c1b77d4a2d",
+      "id": "6d191bf6f95ef95a",
       "type": "paragraph"
     },
     {
       "text": "The Design-Implement-Redesign-Reimplement Pattern by Steve Houk describes its intent as the following: \"Explain new concepts and methods based on old concepts\". Although he restricts its pattern to teaching OO concepts, he uses the same approach as we do in our <i>[[REPEAT TOPICS]]</i> pattern.\n  ",
-      "id": "1c7b9349fc2fe145",
+      "id": "c699f0ee796eecbc",
       "type": "paragraph"
     },
     {
       "text": "Joseph Bergin's Early Bird introduces the notion of teaching important concepts first, because \"Students often remember best what they learn first.\" This is basically the same as we propose in our <i>[[GENERAL CONCEPTS FIRST]]</i> pattern.\n  ",
-      "id": "b02d32db12c14d4b",
+      "id": "4aa3ff00545b1808",
       "type": "paragraph"
     },
     {
       "text": "Expose the Process by Byron Weber Becker describes that the \"Students can benefit by watching idea develop\". This is related to out <i>[[EXERCISE EMPHASIZE PROCESS]]</i> pattern.\n  ",
-      "id": "0b29e79ac5d64aa6",
+      "id": "ea8aa74d338ac439",
       "type": "paragraph"
     },
     {
       "text": "In his Gagn-Ausubel Pattern of Lecture Tim DeClue describes a way how the teacher can use <i>[[WORK FORMS]]</i> to let the participants take part in the sessions actively. His pattern is based on the writings of Robert Gagn and David Ausubel. This pattern aims at the same problem as out <i>[[WORK FORMS]]</i>. Mary Lynn Manns also proposes a more hands-on approach to teaching in her Lab-Discussion-Lecture-Lab Pattern.\n  ",
-      "id": "cae9eae8b4db830c",
+      "id": "e06c93eb3c7eed84",
       "type": "paragraph"
     },
     {
       "text": "Joseph Bergin and Jeanine Meyer introduced a pattern called Gold Stars for Confusion. It claims that \"tokens of approval\" should be given to students who \"reveal that they are struggling with new concepts\". Just as our <i>[[HONOR QUESTIONS]]</i> pattern, it tries to motivate the participants to think about a new topic and ask if they have problems.\n  ",
-      "id": "8a88c86a395ecfc4",
+      "id": "d6122c892cdeca58",
       "type": "paragraph"
     },
     {
       "text": "An special <i>[[WORK FORM]]</i> is the Icky Poo pattern by Joseph Bergin and Owen Astrachan. They propose to use \"very vivid physical analogies\" to \"make the presentation of a complex topic unforgettable\". Jutta Eckstein's Incremental Role Play pattern proposes the same for teaching OO concepts by \"asking the students to behave as objects\".\n  ",
-      "id": "26a64daf744d3b30",
+      "id": "e5bb8ab8bc9933f6",
       "type": "paragraph"
     },
     {
       "text": "A central intention of our patterns is to make participants really take part in the sessions. They should be motivated to think and contribute. In their Round Robin Pattern Kent Beck and David Bellin propose using a round robin strategy to make everybody contribute to a session. According to them, the problem is that in every seminar, after a short period of time there is a core of listeners and speakers, while the rest does not really contribute to the sessions.\n  ",
-      "id": "7e66b9320c0d264c",
+      "id": "c082254a44dc32c4",
       "type": "paragraph"
     },
     {
       "text": "Jeanine Meyer has a Team Teaching Pattern, which is basically the same as out <i>[[TEACHER TEAMS]]</i>, although she provides a more detailed description.\n  ",
-      "id": "2bc865702198b436",
+      "id": "3f7291126b454ccc",
       "type": "paragraph"
     },
     {
       "text": "As mentioned above, these patterns can be found at the homepage of the Pedagogical Pattern Project: [PP] in <i>[[Resources]]</i>.\n  ",
-      "id": "63c9d3e08a3013c0",
+      "id": "afd188cecbab1e83",
       "type": "paragraph"
     },
     {
       "text": "<br><b><i>[[Acknowledgments]]</i></b>\n<!-- Localized -->",
-      "id": "225ae930bdcd70d4",
+      "id": "fba5e93eef45fa53",
       "type": "paragraph"
     }
   ]

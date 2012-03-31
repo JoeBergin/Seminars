@@ -2,7 +2,7 @@
   "title": "USE-PARTICIPANTS-MEDIA",
   "journal": [
     {
-      "id": "cfda3e4b36d657c8",
+      "id": "cc5298e53e3aed3e",
       "type": "create",
       "item": {
         "title": "USE-PARTICIPANTS-MEDIA"
@@ -12,32 +12,32 @@
   "story": [
     {
       "text": "42. USE PARTICIPANTS' MEDIA *",
-      "id": "8e0767a75d0df267",
+      "id": "f15372ab2f297582",
       "type": "paragraph"
     },
     {
       "text": "The participants usually have to do two things in parallel: Understand new topics and copy text from a blackboard/transparency/slide. This is a very challenging task. You as the teacher should make this as easy as possible for the participants.\n  ",
-      "id": "027653454e665631",
+      "id": "a613a2ec8dd16423",
       "type": "paragraph"
     },
     {
       "text": "&lt;center&gt;❖ ❖ ❖&lt;/center&gt;",
-      "id": "4214244393fbde71",
+      "id": "b0c3eb201adb1572",
       "type": "paragraph"
     },
     {
       "text": "<b>Therefore</b>, create \"equal chances\" for everybody. You should use the same kind of media as the participants do, so the participants can easily copy things as fast as you write them. Keep in mind, that the participants should be given the chance to understand the topics they copy. Otherwise, they do not know whether they did understand it or not, and they cannot ask important questions.\n  ",
-      "id": "d8b57913b9876531",
+      "id": "e372460f9723a8a3",
       "type": "paragraph"
     },
     {
       "text": "If you show complex drawings, give the participants hardcopies, do not ask them to copy the drawings manually while you explain them. If the participants have to copy things manually (which is good from a learning efficiency perspective), write them on the blackboard or on transparencies during the session. It is very frustrating for participants to enter the room and see a completely filled blackboard and hear the teacher saying \"You can already start copying that...\"\n  ",
-      "id": "0034fac300b46080",
+      "id": "b04eaf48aa560fd0",
       "type": "paragraph"
     },
     {
       "text": "<br><b><i>Next: [[PARTICIPANTS-FEEDBACK-FORM]]</i></b>\n<!-- Localized -->",
-      "id": "d944cd6f59f200e1",
+      "id": "7920f25a837a0aac",
       "type": "paragraph"
     }
   ]

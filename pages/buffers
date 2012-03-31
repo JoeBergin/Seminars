@@ -2,7 +2,7 @@
   "title": "BUFFERS",
   "journal": [
     {
-      "id": "944b42d5376f68ab",
+      "id": "e3cf9a5353ac7454",
       "type": "create",
       "item": {
         "title": "BUFFERS"
@@ -12,37 +12,37 @@
   "story": [
     {
       "text": "9. BUFFERS **",
-      "id": "be3f8d6dcd1b56a5",
+      "id": "4cc69c98bd0d207f",
       "type": "paragraph"
     },
     {
       "text": "During a course, unforeseen problems and topics will arise. Participants might have important questions, pet problems, or related side topics. You should be able to incorporate these additional topics (at least to some extent) without ruining your plan. You should not ask the participants to \"add an extra hour/day\" to include the additional topics or to answer a participant's question.\n  ",
-      "id": "068fe36201194150",
+      "id": "54646a195f4f653d",
       "type": "paragraph"
     },
     {
       "text": "&lt;center&gt;❖ ❖ ❖&lt;/center&gt;",
-      "id": "eadb0ae78e6553c1",
+      "id": "657188a6845616fa",
       "type": "paragraph"
     },
     {
       "text": "<b>Therefore</b>, when creating the plan, keep these unforeseen requirements in mind by including time buffers. Because unforeseen topics will come up in any seminar, it is safe to incorporate these time buffers from the beginning. If not, you can finish early! However, be sure not to drift too far from your <i>[[SEMINAR PLAN]]</i>. If a question is completely out of the scope of the seminar, answer it off-line.\n  ",
-      "id": "53706a2f0f224927",
+      "id": "3ddf1baddf78d71d",
       "type": "paragraph"
     },
     {
       "text": "The schedule can contain periods marked as buffers, or, alternatively, some parts of the content could be marked as \"optional\", these parts can then be replaced by one of the unplanned topics. If the unplanned topic is similar to a planned example consider replacing the example with the unplanned topic.\n  ",
-      "id": "2a01ce3ecd155b4c",
+      "id": "4a8f2bda2b091a4a",
       "type": "paragraph"
     },
     {
       "text": "During a seminar on Design Patterns, we had enough time to discuss patterns in the context in the participants' company's product (which is written in their own OO language, making the discussion even more interesting). This had a positive effect on the overall success of the seminar.\n  ",
-      "id": "b69176a7efadb8fa",
+      "id": "ab03a72b7c47a472",
       "type": "paragraph"
     },
     {
       "text": "<br><b><i>Next: [[REVIEW-AFTER-BREAKS]]</i></b>\n<!-- Localized -->",
-      "id": "d19cf05d91818776",
+      "id": "748d0cd19c034225",
       "type": "paragraph"
     }
   ]

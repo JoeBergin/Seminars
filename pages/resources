@@ -2,7 +2,7 @@
   "title": "Resources",
   "journal": [
     {
-      "id": "643e10cf6f01de5c",
+      "id": "fa0512381c3191f1",
       "type": "create",
       "item": {
         "title": "Resources"
@@ -12,57 +12,57 @@
   "story": [
     {
       "text": " ",
-      "id": "0b47818f66f8a68c",
+      "id": "cfdfdc74cac66df8",
       "type": "paragraph"
     },
     {
       "text": "[CA] Christopher Alexander et. al., A Pattern Language: Towns - Buildings - Construction. Oxford University Press 1977 ",
-      "id": "856787cfbadfe5ba",
+      "id": "e07c3c402a8ab843",
       "type": "paragraph"
     },
     {
       "text": "[CR] Colin Rose, Accelerated Learning, Dell Books, 1989\n\t",
-      "id": "8898dbd7fa8919d6",
+      "id": "03d3681691b9b6a0",
       "type": "paragraph"
     },
     {
       "text": "[FV] Frederic Vester, Denken, Lernen, Vergessen, 23rd edition, dtv, 1996\n",
-      "id": "7f9e34c251610ff9",
+      "id": "8b5ae64b466ea701",
       "type": "paragraph"
     },
     {
       "text": "[MH] Hilbert Meyer, Unterrichtsmethoden (Bd.1 Theorie, Bd.2 Praxis), Cornelsen, 1987\n",
-      "id": "279775a28bd9ced9",
+      "id": "fd5ac8ee4e325a8d",
       "type": "paragraph"
     },
     {
       "text": "[PLOP1] Coplien, Schmidt (editors), Pattern Languages of Program Design, Addison-Wesley 1995\n",
-      "id": "52e41077a20a0c1e",
+      "id": "f4a69f9315433acd",
       "type": "paragraph"
     },
     {
       "text": "[PLOP2] Vlissides, Coplien, Kerth (editors), Pattern Languages of Program Design 2, Addison-Wesley 1996\n",
-      "id": "6733d07e47d0427a",
+      "id": "a497c874fe692478",
       "type": "paragraph"
     },
     {
       "text": "[PLOP3] Martin, Riehle, Buschmann (editors), Pattern Languages of Program Design 3, Addison-Wesley 1998\n",
-      "id": "579e4b571456d289",
+      "id": "1500e328db1d15fc",
       "type": "paragraph"
     },
     {
       "text": "[PLOP4] Harrisson, Foote, Rohnert (editors), Pattern Languages of Program Design 4, Addison-Wesley 2000\n",
-      "id": "92913f6b9e54eeb2",
+      "id": "5e782065a9c25413",
       "type": "paragraph"
     },
     {
       "text": "[PP] Pedagogical Patterns Project home page at http://pedagogicalpatterns.org\n",
-      "id": "d515f2415684252f",
+      "id": "26f4f5bf9897e911",
       "type": "paragraph"
     },
     {
       "text": "[WP] Wilhelm H. Peterßen, Handbuch Unterrichtsplanung, 6th Edition, Ehrenwith, 1982 ",
-      "id": "f2d7b65ac0e1d981",
+      "id": "466e55e099639be5",
       "type": "paragraph"
     }
   ]

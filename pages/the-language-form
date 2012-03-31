@@ -2,7 +2,7 @@
   "title": "The Language Form",
   "journal": [
     {
-      "id": "5015b27deba3429c",
+      "id": "cb8d9e72e61b5c81",
       "type": "create",
       "item": {
         "title": "The Language Form"
@@ -11,73 +11,73 @@
   ],
   "story": [
     {
-      "text": "The patterns in this pattern language use a form similar to the one used by Alexander in his book A Pattern Language (see [CA} in <i>[[Resources]]</i>). All patterns are written in the you-form, thus directly talking to you, the teacher. In addition to the pattern name, each pattern is divided into three sections. The first section describes the problem and the forces (bold font). The second section (below the jjj) outlines the solution to the described problem as well as the consequences, limitations, and disadvantages. The third section provides examples and additional information (italic font) on implementing the pattern. References to other patterns in this language are printed in CAPITAL LETTERS.\n  ",
-      "id": "d07f891384f66750",
+      "text": "The patterns in this pattern language use a form similar to the one used by Alexander in his book A Pattern Language (see [CA} in <i>[[Resources]]</i>). All patterns are written in the you-form, thus directly talking to you, the teacher. In addition to the pattern name, each pattern is divided into three sections. The first section describes the problem and the forces. The second section (below the diamonds) outlines the solution to the described problem as well as the consequences, limitations, and disadvantages. The third section provides examples and additional information on implementing the pattern. References to other patterns in this language are printed in CAPITAL LETTERS.\n  ",
+      "id": "ef33ee25321bfb2f",
       "type": "paragraph"
     },
     {
       "text": "Insert image: form.gif here.",
-      "id": "84d2cc1eafe30ca3",
+      "id": "2e38ccbc014d2ea7",
       "type": "paragraph"
     },
     {
       "text": "In addition, each pattern is marked with zero, one or two asterisks (*), as in Alexander's patterns, they show how \"alive\" we believe the pattern is.\n  ",
-      "id": "f98a64a87fde7cad",
+      "id": "60358ac27c9f2acf",
       "type": "paragraph"
     },
     {
       "text": "Two asterisks denote patterns that state invariants. We believe that these patterns are essential and that the associated problem cannot be solved in a significantly different way. One asterisk means that we think that we are on the right track, but there might be room for improvement of the patterns. For patterns with no asterisk we are sure that there are other, perhaps better ways of solving the problem, but we have not yet found them.\n  ",
-      "id": "07ebe6c8b89ed632",
+      "id": "c6b4fae97efd1cc3",
       "type": "paragraph"
     },
     {
       "text": "This section describes the pattern language itself, which is built from the single patterns. The pattern language is divided into different phases, each beginning and ending with a checkpoint. The following is an overview of the language, assuming that you are assigned to run a seminar on a given topic with a defined audience.\n  ",
-      "id": "232a3cd3d8bbb80c",
+      "id": "d356414af50ea37e",
       "type": "paragraph"
     },
     {
       "text": "The first task is to prepare the seminar by structuring the contents and creating a comfortable environment in which to teach. This phase defines the foundation that is needed to execute a successful seminar.\n  ",
-      "id": "e0bfd1f4fe5897bf",
+      "id": "9821d344e5d9e555",
       "type": "paragraph"
     },
     {
       "text": "You are now ready to start the seminar. The participants arrive. You should welcome the participants, create a comfortable atmosphere and make room for personal communication. This phase is important from a social point of view.\n  ",
-      "id": "a932ca3220e2822a",
+      "id": "872178c51c9f1f0e",
       "type": "paragraph"
     },
     {
       "text": "The sessions begin. You have to arrange your teaching in a suitable manner by giving overviews, summaries, et cetera. You should teach the content in a way that is accessible for the participants. You should include exercises that reinforce the content. There are rules to follow for you as a teacher.\n  ",
-      "id": "57e0870e07fff520",
+      "id": "92b96c2630138db8",
       "type": "paragraph"
     },
     {
       "text": "Now that the teaching is over and the participants have successfully learned the required topics, it is time for the exam.\n  ",
-      "id": "8133981497ca89e4",
+      "id": "50901d704b91a3eb",
       "type": "paragraph"
     },
     {
       "text": "The seminar is over and it is time to look back.\n  ",
-      "id": "8ff16c23b877d726",
+      "id": "d9863e73de7afbad",
       "type": "paragraph"
     },
     {
       "text": "In the map that follows below, the following symbology is used (see sketch below):\n  ",
-      "id": "b8a1e0bd7d6fbaac",
+      "id": "339d7292ddc2628c",
       "type": "paragraph"
     },
     {
       "text": "Insert image: mapLegend.gif here.",
-      "id": "0ba32620ecfa9a6c",
+      "id": "632f27fb32b14984",
       "type": "paragraph"
     },
     {
       "text": "Pattern A must be implemented successfully before Pattern B can be implemented. This describes a kind of temporal ordering. Pattern C is a way to implement Pattern A. It could also be seen as a kind of specialization. Patterns B and D share a common context and are therefore grouped.\n  ",
-      "id": "73f8f3f258b5992c",
+      "id": "13ac5ceb47872689",
       "type": "paragraph"
     },
     {
       "text": "<br>\n  Next: <b><i>[[Map]]</i></b>\n<!-- Localized -->",
-      "id": "8d2fb5271c6249a7",
+      "id": "945763b623c9d321",
       "type": "paragraph"
     }
   ]

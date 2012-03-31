@@ -2,7 +2,7 @@
   "title": "EXERCISES-EMPHASIZE-PROCESS",
   "journal": [
     {
-      "id": "30bf4db93710c291",
+      "id": "db691965e2ecdfe4",
       "type": "create",
       "item": {
         "title": "EXERCISES-EMPHASIZE-PROCESS"
@@ -12,32 +12,32 @@
   "story": [
     {
       "text": "26. EXERCISES EMPHASIZE PROCESS *",
-      "id": "9b95a4359ed83eb1",
+      "id": "e7c1c0b9b5800a80",
       "type": "paragraph"
     },
     {
       "text": "Often, people are frustrated if they do not get the right solution for an exercise, whereas \"right\" is defined as the solution the teacher wants to see. This might happen because <i>[[DIFFERENT EXERCISE LEVELS]]</i> are not available. However, the real use of exercises is to have the participants work on them, thereby working on a problem, creatively applying the newly learned topics.\n  ",
-      "id": "e58614da08490ebd",
+      "id": "993a7abdbc2465f4",
       "type": "paragraph"
     },
     {
       "text": "&lt;center&gt;❖ ❖ ❖&lt;/center&gt;",
-      "id": "5663a9c9de15f998",
+      "id": "e0947578c91d4d65",
       "type": "paragraph"
     },
     {
       "text": "<b>Therefore</b>, honor the work on the exercise, and not whether the solution is right or wrong. Especially in IT technology, there is often no \"right\" or \"wrong\" solution, there are several more or less elegant alternatives. You should keep in mind that often, the solution is conceptually right, and only some minor details keep it from actually working.\n  ",
-      "id": "f673957c4db185d6",
+      "id": "b8317fe59cb2b97d",
       "type": "paragraph"
     },
     {
       "text": "An example could  be the following: Do not ask the participants to write a program for a specific problem, but ask them to document how such a program could look like, which tools could be used, et cetera. Then, groups of participants could discuss the solution and perhaps create the final program.\n  ",
-      "id": "cda2141f0882bf4d",
+      "id": "cc937e9878c99217",
       "type": "paragraph"
     },
     {
       "text": "<br><b><i>Next: [[NAME-IS-LAST]]</i></b>\n<!-- Localized -->",
-      "id": "42c86e2e57fb11f7",
+      "id": "14ac3cbcc3065165",
       "type": "paragraph"
     }
   ]

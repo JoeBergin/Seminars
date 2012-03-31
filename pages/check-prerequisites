@@ -2,7 +2,7 @@
   "title": "CHECK-PREREQUISITES",
   "journal": [
     {
-      "id": "50c9eef1c9c2bf5f",
+      "id": "1b8bfc43445e6ed9",
       "type": "create",
       "item": {
         "title": "CHECK-PREREQUISITES"
@@ -12,67 +12,67 @@
   "story": [
     {
       "text": "1. CHECK PREREQUISITES **",
-      "id": "e18411feae5c5412",
+      "id": "07c000bd4698e79f",
       "type": "paragraph"
     },
     {
       "text": "Preparing a seminar involves understanding a wide variety of issues and concerns. Each seminar has a unique audience with unique skills and objectives, and perhaps a different number of participants. It is usually held in a different place with a different infrastructure. Two seminars are never identical, even if they cover the same topic. You don't want to be surprised when you arrive on site and meet the participants.\n  ",
-      "id": "020ac1368345fff7",
+      "id": "470ffce5bad6df89",
       "type": "paragraph"
     },
     {
       "text": "&lt;center&gt;❖ ❖ ❖&lt;/center&gt;",
-      "id": "fc7481b87bbf46ec",
+      "id": "eeb49703051a4ef0",
       "type": "paragraph"
     },
     {
       "text": "<b>Therefore</b>, check the prerequisites before creating a detailed <i>[[SEMINAR PLAN]]</i>. Make sure that everything you rely on is really what you expect it. Use a checklist of all the necessary items before you start to plan the seminar in detail.\n  ",
-      "id": "4c1c42f3c3830323",
+      "id": "31763fb466f19578",
       "type": "paragraph"
     },
     {
       "text": "Examples for the contents of such a checklist might be the following:\n  ",
-      "id": "e89e88d5c2e4089e",
+      "id": "d7306a33b4fd8547",
       "type": "paragraph"
     },
     {
       "text": "What is the background / domain of the participants?",
-      "id": "e84810a9246920d2",
+      "id": "9de62385829704b1",
       "type": "paragraph"
     },
     {
       "text": "What is the overall content of the seminar?",
-      "id": "16815beb44e65654",
+      "id": "ab8d2931b8bfca86",
       "type": "paragraph"
     },
     {
       "text": "Is there a concrete goal for the seminar?",
-      "id": "a44afa14e972707e",
+      "id": "29254a80fb495b90",
       "type": "paragraph"
     },
     {
       "text": "Which additional materials and media are available for this topic?",
-      "id": "d67c95cbb7a20ded",
+      "id": "fd7acec3dae1d617",
       "type": "paragraph"
     },
     {
       "text": "How many participants will be in the seminar? Is the planned teaching method suitable?",
-      "id": "134aae747de777d0",
+      "id": "6d2bc90dd68e0f68",
       "type": "paragraph"
     },
     {
       "text": "Which is the best way to teach the contents?",
-      "id": "f1def886e264ef5e",
+      "id": "d0aaa9874986fe6a",
       "type": "paragraph"
     },
     {
       "text": "Inspect the room! Check the table arrangement, the available media types, etc.",
-      "id": "d69c652322fe19c3",
+      "id": "43dd488fe7fe5e1b",
       "type": "paragraph"
     },
     {
       "text": "<br><b><i>Next: [[ADAPT-TO-PARTICIPANTS-BACKGROUND]]</i></b>\n<!-- Localized -->",
-      "id": "235a2276ced72c22",
+      "id": "5af8de08b2df3eda",
       "type": "paragraph"
     }
   ]

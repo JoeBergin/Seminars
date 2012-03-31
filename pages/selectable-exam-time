@@ -2,7 +2,7 @@
   "title": "SELECTABLE-EXAM-TIME",
   "journal": [
     {
-      "id": "55627c7cd340e2b0",
+      "id": "17834b31224422e9",
       "type": "create",
       "item": {
         "title": "SELECTABLE-EXAM-TIME"
@@ -12,32 +12,32 @@
   "story": [
     {
       "text": "46. SELECTABLE EXAM TIME  *",
-      "id": "95e35cce71b1861c",
+      "id": "77e9e5b707c2d52a",
       "type": "paragraph"
     },
     {
       "text": "Participants learn with a different speeds. You should give each participant the chance to learn with the speed that is most appropriate for him.\n  And there are different daily forms of a person. You do not want to have a participant get a bad mark just because he had a bad day when he wrote the exam.\n  ",
-      "id": "811071e4520cf935",
+      "id": "e5db74c351e6fdb8",
       "type": "paragraph"
     },
     {
       "text": "&lt;center&gt;❖ ❖ ❖&lt;/center&gt;",
-      "id": "c1122addbbad9f61",
+      "id": "62374343ca605d03",
       "type": "paragraph"
     },
     {
       "text": "<b>Therefore</b>, give participants a change to write the exam whenever they feel ready. Be sure not to judge participants on their learning speed, if the goal of the seminar is to teach skills.\n  ",
-      "id": "ca8f9adb5a43ec02",
+      "id": "39f5d5426fba98e8",
       "type": "paragraph"
     },
     {
       "text": "<b>Therefore</b>, give participants a change to write the exam whenever they feel ready. Be sure not to judge participants on their learning speed, if the goal of the seminar is to teach skills.\n  ",
-      "id": "6a9bf21f0df6d1ff",
+      "id": "e427a5864a66a2ce",
       "type": "paragraph"
     },
     {
       "text": "<br><b><i>Next: [[DIFFERENTIATED-FEEDBACK]]</i></b>\n<!-- Localized -->",
-      "id": "160facf0300de8b8",
+      "id": "6089e9f5ddb2fd07",
       "type": "paragraph"
     }
   ]
